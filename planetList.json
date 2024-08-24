@@ -1,0 +1,8237 @@
+[
+  {
+    "kepler_name": "Kepler-227 b"
+  },
+  {
+    "kepler_name": "Kepler-227 c"
+  },
+  {
+    "kepler_name": "Kepler-664 b"
+  },
+  {
+    "kepler_name": "Kepler-228 d"
+  },
+  {
+    "kepler_name": "Kepler-228 c"
+  },
+  {
+    "kepler_name": "Kepler-228 b"
+  },
+  {
+    "kepler_name": "Kepler-229 c"
+  },
+  {
+    "kepler_name": "Kepler-1 b"
+  },
+  {
+    "kepler_name": "Kepler-2 b"
+  },
+  {
+    "kepler_name": "Kepler-8 b"
+  },
+  {
+    "kepler_name": "Kepler-466 c"
+  },
+  {
+    "kepler_name": "Kepler-660 b"
+  },
+  {
+    "kepler_name": "Kepler-661 b"
+  },
+  {
+    "kepler_name": "Kepler-226 c"
+  },
+  {
+    "kepler_name": "Kepler-226 b"
+  },
+  {
+    "kepler_name": "Kepler-226 d"
+  },
+  {
+    "kepler_name": "Kepler-662 b"
+  },
+  {
+    "kepler_name": "Kepler-663 b"
+  },
+  {
+    "kepler_name": "Kepler-671 b"
+  },
+  {
+    "kepler_name": "Kepler-672 b"
+  },
+  {
+    "kepler_name": "Kepler-229 d"
+  },
+  {
+    "kepler_name": "Kepler-229 b"
+  },
+  {
+    "kepler_name": "Kepler-665 b"
+  },
+  {
+    "kepler_name": "Kepler-230 b"
+  },
+  {
+    "kepler_name": "Kepler-230 c"
+  },
+  {
+    "kepler_name": "Kepler-1976 b"
+  },
+  {
+    "kepler_name": "Kepler-666 b"
+  },
+  {
+    "kepler_name": "Kepler-105 b"
+  },
+  {
+    "kepler_name": "Kepler-667 b"
+  },
+  {
+    "kepler_name": "Kepler-668 b"
+  },
+  {
+    "kepler_name": "Kepler-669 b"
+  },
+  {
+    "kepler_name": "Kepler-670 b"
+  },
+  {
+    "kepler_name": "Kepler-680 b"
+  },
+  {
+    "kepler_name": "Kepler-232 b"
+  },
+  {
+    "kepler_name": "Kepler-232 c"
+  },
+  {
+    "kepler_name": "Kepler-681 b"
+  },
+  {
+    "kepler_name": "Kepler-106 c"
+  },
+  {
+    "kepler_name": "Kepler-105 c"
+  },
+  {
+    "kepler_name": "Kepler-52 c"
+  },
+  {
+    "kepler_name": "Kepler-52 b"
+  },
+  {
+    "kepler_name": "Kepler-52 d"
+  },
+  {
+    "kepler_name": "Kepler-673 b"
+  },
+  {
+    "kepler_name": "Kepler-674 b"
+  },
+  {
+    "kepler_name": "Kepler-675 b"
+  },
+  {
+    "kepler_name": "Kepler-676 b"
+  },
+  {
+    "kepler_name": "Kepler-677 b"
+  },
+  {
+    "kepler_name": "Kepler-678 b"
+  },
+  {
+    "kepler_name": "Kepler-231 c"
+  },
+  {
+    "kepler_name": "Kepler-231 b"
+  },
+  {
+    "kepler_name": "Kepler-679 b"
+  },
+  {
+    "kepler_name": "Kepler-106 e"
+  },
+  {
+    "kepler_name": "Kepler-234 b"
+  },
+  {
+    "kepler_name": "Kepler-234 c"
+  },
+  {
+    "kepler_name": "Kepler-233 b"
+  },
+  {
+    "kepler_name": "Kepler-233 c"
+  },
+  {
+    "kepler_name": "Kepler-682 b"
+  },
+  {
+    "kepler_name": "Kepler-683 b"
+  },
+  {
+    "kepler_name": "Kepler-684 b"
+  },
+  {
+    "kepler_name": "Kepler-235 d"
+  },
+  {
+    "kepler_name": "Kepler-235 e"
+  },
+  {
+    "kepler_name": "Kepler-106 d"
+  },
+  {
+    "kepler_name": "Kepler-235 c"
+  },
+  {
+    "kepler_name": "Kepler-688 b"
+  },
+  {
+    "kepler_name": "Kepler-689 b"
+  },
+  {
+    "kepler_name": "Kepler-685 b"
+  },
+  {
+    "kepler_name": "Kepler-1727 b"
+  },
+  {
+    "kepler_name": "Kepler-30 d"
+  },
+  {
+    "kepler_name": "Kepler-106 b"
+  },
+  {
+    "kepler_name": "Kepler-30 c"
+  },
+  {
+    "kepler_name": "Kepler-30 b"
+  },
+  {
+    "kepler_name": "Kepler-686 b"
+  },
+  {
+    "kepler_name": "Kepler-1728 b"
+  },
+  {
+    "kepler_name": "Kepler-687 b"
+  },
+  {
+    "kepler_name": "Kepler-235 b"
+  },
+  {
+    "kepler_name": "Kepler-53 b"
+  },
+  {
+    "kepler_name": "Kepler-107 c"
+  },
+  {
+    "kepler_name": "Kepler-53 d"
+  },
+  {
+    "kepler_name": "Kepler-53 c"
+  },
+  {
+    "kepler_name": "Kepler-428 b"
+  },
+  {
+    "kepler_name": "Kepler-690 b"
+  },
+  {
+    "kepler_name": "Kepler-236 c"
+  },
+  {
+    "kepler_name": "Kepler-236 b"
+  },
+  {
+    "kepler_name": "Kepler-691 b"
+  },
+  {
+    "kepler_name": "Kepler-107 e"
+  },
+  {
+    "kepler_name": "Kepler-692 b"
+  },
+  {
+    "kepler_name": "Kepler-693 b"
+  },
+  {
+    "kepler_name": "Kepler-237 c"
+  },
+  {
+    "kepler_name": "Kepler-237 b"
+  },
+  {
+    "kepler_name": "Kepler-694 b"
+  },
+  {
+    "kepler_name": "Kepler-695 b"
+  },
+  {
+    "kepler_name": "Kepler-27 b"
+  },
+  {
+    "kepler_name": "Kepler-107 d"
+  },
+  {
+    "kepler_name": "Kepler-27 c"
+  },
+  {
+    "kepler_name": "Kepler-238 e"
+  },
+  {
+    "kepler_name": "Kepler-238 d"
+  },
+  {
+    "kepler_name": "Kepler-238 c"
+  },
+  {
+    "kepler_name": "Kepler-238 b"
+  },
+  {
+    "kepler_name": "Kepler-107 b"
+  },
+  {
+    "kepler_name": "Kepler-238 f"
+  },
+  {
+    "kepler_name": "Kepler-239 b"
+  },
+  {
+    "kepler_name": "Kepler-239 c"
+  },
+  {
+    "kepler_name": "Kepler-240 c"
+  },
+  {
+    "kepler_name": "Kepler-240 b"
+  },
+  {
+    "kepler_name": "Kepler-702 b"
+  },
+  {
+    "kepler_name": "Kepler-703 b"
+  },
+  {
+    "kepler_name": "Kepler-704 b"
+  },
+  {
+    "kepler_name": "Kepler-242 b"
+  },
+  {
+    "kepler_name": "Kepler-242 c"
+  },
+  {
+    "kepler_name": "Kepler-27 d"
+  },
+  {
+    "kepler_name": "Kepler-241 b"
+  },
+  {
+    "kepler_name": "Kepler-241 c"
+  },
+  {
+    "kepler_name": "Kepler-696 b"
+  },
+  {
+    "kepler_name": "Kepler-697 b"
+  },
+  {
+    "kepler_name": "Kepler-698 b"
+  },
+  {
+    "kepler_name": "Kepler-699 b"
+  },
+  {
+    "kepler_name": "Kepler-700 b"
+  },
+  {
+    "kepler_name": "Kepler-467 b"
+  },
+  {
+    "kepler_name": "Kepler-701 b"
+  },
+  {
+    "kepler_name": "Kepler-709 b"
+  },
+  {
+    "kepler_name": "Kepler-245 b"
+  },
+  {
+    "kepler_name": "Kepler-245 d"
+  },
+  {
+    "kepler_name": "Kepler-245 c"
+  },
+  {
+    "kepler_name": "Kepler-705 b"
+  },
+  {
+    "kepler_name": "Kepler-706 b"
+  },
+  {
+    "kepler_name": "Kepler-243 b"
+  },
+  {
+    "kepler_name": "Kepler-108 b"
+  },
+  {
+    "kepler_name": "Kepler-243 c"
+  },
+  {
+    "kepler_name": "Kepler-707 b"
+  },
+  {
+    "kepler_name": "Kepler-708 b"
+  },
+  {
+    "kepler_name": "Kepler-244 b"
+  },
+  {
+    "kepler_name": "Kepler-244 d"
+  },
+  {
+    "kepler_name": "Kepler-244 c"
+  },
+  {
+    "kepler_name": "Kepler-108 c"
+  },
+  {
+    "kepler_name": "Kepler-82 b"
+  },
+  {
+    "kepler_name": "Kepler-82 c"
+  },
+  {
+    "kepler_name": "Kepler-82 e"
+  },
+  {
+    "kepler_name": "Kepler-82 d"
+  },
+  {
+    "kepler_name": "Kepler-712 b"
+  },
+  {
+    "kepler_name": "Kepler-245 e"
+  },
+  {
+    "kepler_name": "Kepler-28 b"
+  },
+  {
+    "kepler_name": "Kepler-28 c"
+  },
+  {
+    "kepler_name": "Kepler-46 b"
+  },
+  {
+    "kepler_name": "Kepler-46 d"
+  },
+  {
+    "kepler_name": "Kepler-710 b"
+  },
+  {
+    "kepler_name": "Kepler-246 b"
+  },
+  {
+    "kepler_name": "Kepler-246 c"
+  },
+  {
+    "kepler_name": "Kepler-1729 b"
+  },
+  {
+    "kepler_name": "Kepler-81 b"
+  },
+  {
+    "kepler_name": "Kepler-81 c"
+  },
+  {
+    "kepler_name": "Kepler-81 d"
+  },
+  {
+    "kepler_name": "Kepler-711 b"
+  },
+  {
+    "kepler_name": "Kepler-109 b"
+  },
+  {
+    "kepler_name": "Kepler-716 b"
+  },
+  {
+    "kepler_name": "Kepler-716 c"
+  },
+  {
+    "kepler_name": "Kepler-717 b"
+  },
+  {
+    "kepler_name": "Kepler-712 c"
+  },
+  {
+    "kepler_name": "Kepler-247 c"
+  },
+  {
+    "kepler_name": "Kepler-95 b"
+  },
+  {
+    "kepler_name": "Kepler-247 d"
+  },
+  {
+    "kepler_name": "Kepler-247 b"
+  },
+  {
+    "kepler_name": "Kepler-54 b"
+  },
+  {
+    "kepler_name": "Kepler-54 c"
+  },
+  {
+    "kepler_name": "Kepler-54 d"
+  },
+  {
+    "kepler_name": "Kepler-713 b"
+  },
+  {
+    "kepler_name": "Kepler-75 b"
+  },
+  {
+    "kepler_name": "Kepler-714 b"
+  },
+  {
+    "kepler_name": "Kepler-715 b"
+  },
+  {
+    "kepler_name": "Kepler-448 b"
+  },
+  {
+    "kepler_name": "Kepler-719 b"
+  },
+  {
+    "kepler_name": "Kepler-55 d"
+  },
+  {
+    "kepler_name": "Kepler-55 b"
+  },
+  {
+    "kepler_name": "Kepler-110 b"
+  },
+  {
+    "kepler_name": "Kepler-248 c"
+  },
+  {
+    "kepler_name": "Kepler-248 b"
+  },
+  {
+    "kepler_name": "Kepler-718 b"
+  },
+  {
+    "kepler_name": "Kepler-83 b"
+  },
+  {
+    "kepler_name": "Kepler-83 d"
+  },
+  {
+    "kepler_name": "Kepler-109 c"
+  },
+  {
+    "kepler_name": "Kepler-83 c"
+  },
+  {
+    "kepler_name": "Kepler-249 c"
+  },
+  {
+    "kepler_name": "Kepler-249 b"
+  },
+  {
+    "kepler_name": "Kepler-249 d"
+  },
+  {
+    "kepler_name": "Kepler-1730 b"
+  },
+  {
+    "kepler_name": "Kepler-722 b"
+  },
+  {
+    "kepler_name": "Kepler-722 c"
+  },
+  {
+    "kepler_name": "Kepler-252 c"
+  },
+  {
+    "kepler_name": "Kepler-252 b"
+  },
+  {
+    "kepler_name": "Kepler-723 b"
+  },
+  {
+    "kepler_name": "Kepler-55 c"
+  },
+  {
+    "kepler_name": "Kepler-55 e"
+  },
+  {
+    "kepler_name": "Kepler-55 f"
+  },
+  {
+    "kepler_name": "Kepler-250 c"
+  },
+  {
+    "kepler_name": "Kepler-250 d"
+  },
+  {
+    "kepler_name": "Kepler-250 b"
+  },
+  {
+    "kepler_name": "Kepler-251 c"
+  },
+  {
+    "kepler_name": "Kepler-251 d"
+  },
+  {
+    "kepler_name": "Kepler-251 b"
+  },
+  {
+    "kepler_name": "Kepler-110 c"
+  },
+  {
+    "kepler_name": "Kepler-251 e"
+  },
+  {
+    "kepler_name": "Kepler-720 b"
+  },
+  {
+    "kepler_name": "Kepler-721 b"
+  },
+  {
+    "kepler_name": "Kepler-730 b"
+  },
+  {
+    "kepler_name": "Kepler-731 b"
+  },
+  {
+    "kepler_name": "Kepler-468 b"
+  },
+  {
+    "kepler_name": "Kepler-724 b"
+  },
+  {
+    "kepler_name": "Kepler-725 b"
+  },
+  {
+    "kepler_name": "Kepler-726 b"
+  },
+  {
+    "kepler_name": "Kepler-253 c"
+  },
+  {
+    "kepler_name": "Kepler-253 d"
+  },
+  {
+    "kepler_name": "Kepler-253 b"
+  },
+  {
+    "kepler_name": "Kepler-727 b"
+  },
+  {
+    "kepler_name": "Kepler-469 b"
+  },
+  {
+    "kepler_name": "Kepler-728 b"
+  },
+  {
+    "kepler_name": "Kepler-729 b"
+  },
+  {
+    "kepler_name": "Kepler-256 c"
+  },
+  {
+    "kepler_name": "Kepler-256 d"
+  },
+  {
+    "kepler_name": "Kepler-256 b"
+  },
+  {
+    "kepler_name": "Kepler-256 e"
+  },
+  {
+    "kepler_name": "Kepler-734 b"
+  },
+  {
+    "kepler_name": "Kepler-77 b"
+  },
+  {
+    "kepler_name": "Kepler-254 b"
+  },
+  {
+    "kepler_name": "Kepler-254 c"
+  },
+  {
+    "kepler_name": "Kepler-254 d"
+  },
+  {
+    "kepler_name": "Kepler-31 b"
+  },
+  {
+    "kepler_name": "Kepler-31 c"
+  },
+  {
+    "kepler_name": "Kepler-31 d"
+  },
+  {
+    "kepler_name": "Kepler-732 b"
+  },
+  {
+    "kepler_name": "Kepler-732 c"
+  },
+  {
+    "kepler_name": "Kepler-15 b"
+  },
+  {
+    "kepler_name": "Kepler-733 b"
+  },
+  {
+    "kepler_name": "Kepler-255 c"
+  },
+  {
+    "kepler_name": "Kepler-255 d"
+  },
+  {
+    "kepler_name": "Kepler-255 b"
+  },
+  {
+    "kepler_name": "Kepler-24 b"
+  },
+  {
+    "kepler_name": "Kepler-24 e"
+  },
+  {
+    "kepler_name": "Kepler-24 d"
+  },
+  {
+    "kepler_name": "Kepler-112 c"
+  },
+  {
+    "kepler_name": "Kepler-1739 b"
+  },
+  {
+    "kepler_name": "Kepler-111 c"
+  },
+  {
+    "kepler_name": "Kepler-769 b"
+  },
+  {
+    "kepler_name": "Kepler-769 c"
+  },
+  {
+    "kepler_name": "Kepler-770 b"
+  },
+  {
+    "kepler_name": "Kepler-784 b"
+  },
+  {
+    "kepler_name": "Kepler-784 c"
+  },
+  {
+    "kepler_name": "Kepler-785 b"
+  },
+  {
+    "kepler_name": "Kepler-21 b"
+  },
+  {
+    "kepler_name": "Kepler-755 b"
+  },
+  {
+    "kepler_name": "Kepler-755 c"
+  },
+  {
+    "kepler_name": "Kepler-1734 b"
+  },
+  {
+    "kepler_name": "Kepler-770 c"
+  },
+  {
+    "kepler_name": "Kepler-770 d"
+  },
+  {
+    "kepler_name": "Kepler-771 b"
+  },
+  {
+    "kepler_name": "Kepler-265 c"
+  },
+  {
+    "kepler_name": "Kepler-265 b"
+  },
+  {
+    "kepler_name": "Kepler-265 e"
+  },
+  {
+    "kepler_name": "Kepler-265 d"
+  },
+  {
+    "kepler_name": "Kepler-756 b"
+  },
+  {
+    "kepler_name": "Kepler-1736 b"
+  },
+  {
+    "kepler_name": "Kepler-268 b"
+  },
+  {
+    "kepler_name": "Kepler-268 c"
+  },
+  {
+    "kepler_name": "Kepler-772 b"
+  },
+  {
+    "kepler_name": "Kepler-79 d"
+  },
+  {
+    "kepler_name": "Kepler-1973 b"
+  },
+  {
+    "kepler_name": "Kepler-260 b"
+  },
+  {
+    "kepler_name": "Kepler-260 c"
+  },
+  {
+    "kepler_name": "Kepler-111 b"
+  },
+  {
+    "kepler_name": "Kepler-773 b"
+  },
+  {
+    "kepler_name": "Kepler-774 b"
+  },
+  {
+    "kepler_name": "Kepler-415 c"
+  },
+  {
+    "kepler_name": "Kepler-415 b"
+  },
+  {
+    "kepler_name": "Kepler-79 c"
+  },
+  {
+    "kepler_name": "Kepler-743 b"
+  },
+  {
+    "kepler_name": "Kepler-261 b"
+  },
+  {
+    "kepler_name": "Kepler-261 c"
+  },
+  {
+    "kepler_name": "Kepler-43 b"
+  },
+  {
+    "kepler_name": "Kepler-757 b"
+  },
+  {
+    "kepler_name": "Kepler-758 b"
+  },
+  {
+    "kepler_name": "Kepler-758 c"
+  },
+  {
+    "kepler_name": "Kepler-758 d"
+  },
+  {
+    "kepler_name": "Kepler-786 b"
+  },
+  {
+    "kepler_name": "Kepler-1741 b"
+  },
+  {
+    "kepler_name": "Kepler-787 b"
+  },
+  {
+    "kepler_name": "Kepler-79 b"
+  },
+  {
+    "kepler_name": "Kepler-276 c"
+  },
+  {
+    "kepler_name": "Kepler-744 b"
+  },
+  {
+    "kepler_name": "Kepler-745 b"
+  },
+  {
+    "kepler_name": "Kepler-262 c"
+  },
+  {
+    "kepler_name": "Kepler-758 e"
+  },
+  {
+    "kepler_name": "Kepler-759 b"
+  },
+  {
+    "kepler_name": "Kepler-48 b"
+  },
+  {
+    "kepler_name": "Kepler-269 b"
+  },
+  {
+    "kepler_name": "Kepler-1740 b"
+  },
+  {
+    "kepler_name": "Kepler-262 b"
+  },
+  {
+    "kepler_name": "Kepler-760 b"
+  },
+  {
+    "kepler_name": "Kepler-269 c"
+  },
+  {
+    "kepler_name": "Kepler-775 b"
+  },
+  {
+    "kepler_name": "Kepler-776 b"
+  },
+  {
+    "kepler_name": "Kepler-275 c"
+  },
+  {
+    "kepler_name": "Kepler-275 b"
+  },
+  {
+    "kepler_name": "Kepler-275 d"
+  },
+  {
+    "kepler_name": "Kepler-263 b"
+  },
+  {
+    "kepler_name": "Kepler-263 c"
+  },
+  {
+    "kepler_name": "Kepler-264 b"
+  },
+  {
+    "kepler_name": "Kepler-760 c"
+  },
+  {
+    "kepler_name": "Kepler-266 b"
+  },
+  {
+    "kepler_name": "Kepler-266 c"
+  },
+  {
+    "kepler_name": "Kepler-48 c"
+  },
+  {
+    "kepler_name": "Kepler-276 b"
+  },
+  {
+    "kepler_name": "Kepler-276 d"
+  },
+  {
+    "kepler_name": "Kepler-788 b"
+  },
+  {
+    "kepler_name": "Kepler-789 b"
+  },
+  {
+    "kepler_name": "Kepler-264 c"
+  },
+  {
+    "kepler_name": "Kepler-746 b"
+  },
+  {
+    "kepler_name": "Kepler-747 b"
+  },
+  {
+    "kepler_name": "Kepler-761 b"
+  },
+  {
+    "kepler_name": "Kepler-762 b"
+  },
+  {
+    "kepler_name": "Kepler-777 b"
+  },
+  {
+    "kepler_name": "Kepler-778 b"
+  },
+  {
+    "kepler_name": "Kepler-257 c"
+  },
+  {
+    "kepler_name": "Kepler-470 b"
+  },
+  {
+    "kepler_name": "Kepler-257 b"
+  },
+  {
+    "kepler_name": "Kepler-257 d"
+  },
+  {
+    "kepler_name": "Kepler-735 b"
+  },
+  {
+    "kepler_name": "Kepler-18 c"
+  },
+  {
+    "kepler_name": "Kepler-748 b"
+  },
+  {
+    "kepler_name": "Kepler-88 b"
+  },
+  {
+    "kepler_name": "Kepler-267 b"
+  },
+  {
+    "kepler_name": "Kepler-267 c"
+  },
+  {
+    "kepler_name": "Kepler-267 d"
+  },
+  {
+    "kepler_name": "Kepler-48 d"
+  },
+  {
+    "kepler_name": "Kepler-779 b"
+  },
+  {
+    "kepler_name": "Kepler-736 b"
+  },
+  {
+    "kepler_name": "Kepler-1666 b"
+  },
+  {
+    "kepler_name": "Kepler-1666 c"
+  },
+  {
+    "kepler_name": "Kepler-749 b"
+  },
+  {
+    "kepler_name": "Kepler-750 b"
+  },
+  {
+    "kepler_name": "Kepler-763 d"
+  },
+  {
+    "kepler_name": "Kepler-763 c"
+  },
+  {
+    "kepler_name": "Kepler-763 b"
+  },
+  {
+    "kepler_name": "Kepler-270 b"
+  },
+  {
+    "kepler_name": "Kepler-270 c"
+  },
+  {
+    "kepler_name": "Kepler-780 b"
+  },
+  {
+    "kepler_name": "Kepler-271 b"
+  },
+  {
+    "kepler_name": "Kepler-271 c"
+  },
+  {
+    "kepler_name": "Kepler-737 b"
+  },
+  {
+    "kepler_name": "Kepler-738 b"
+  },
+  {
+    "kepler_name": "Kepler-739 b"
+  },
+  {
+    "kepler_name": "Kepler-258 b"
+  },
+  {
+    "kepler_name": "Kepler-18 d"
+  },
+  {
+    "kepler_name": "Kepler-750 c"
+  },
+  {
+    "kepler_name": "Kepler-751 b"
+  },
+  {
+    "kepler_name": "Kepler-764 b"
+  },
+  {
+    "kepler_name": "Kepler-1735 b"
+  },
+  {
+    "kepler_name": "Kepler-765 b"
+  },
+  {
+    "kepler_name": "Kepler-473 b"
+  },
+  {
+    "kepler_name": "Kepler-258 c"
+  },
+  {
+    "kepler_name": "Kepler-32 b"
+  },
+  {
+    "kepler_name": "Kepler-32 c"
+  },
+  {
+    "kepler_name": "Kepler-32 d"
+  },
+  {
+    "kepler_name": "Kepler-32 e"
+  },
+  {
+    "kepler_name": "Kepler-32 f"
+  },
+  {
+    "kepler_name": "Kepler-752 b"
+  },
+  {
+    "kepler_name": "Kepler-753 b"
+  },
+  {
+    "kepler_name": "Kepler-18 b"
+  },
+  {
+    "kepler_name": "Kepler-418 b"
+  },
+  {
+    "kepler_name": "Kepler-418 c"
+  },
+  {
+    "kepler_name": "Kepler-1737 b"
+  },
+  {
+    "kepler_name": "Kepler-781 b"
+  },
+  {
+    "kepler_name": "Kepler-272 c"
+  },
+  {
+    "kepler_name": "Kepler-740 b"
+  },
+  {
+    "kepler_name": "Kepler-13 b"
+  },
+  {
+    "kepler_name": "Kepler-471 b"
+  },
+  {
+    "kepler_name": "Kepler-259 b"
+  },
+  {
+    "kepler_name": "Kepler-259 c"
+  },
+  {
+    "kepler_name": "Kepler-1732 b"
+  },
+  {
+    "kepler_name": "Kepler-1733 b"
+  },
+  {
+    "kepler_name": "Kepler-754 b"
+  },
+  {
+    "kepler_name": "Kepler-472 b"
+  },
+  {
+    "kepler_name": "Kepler-766 b"
+  },
+  {
+    "kepler_name": "Kepler-112 b"
+  },
+  {
+    "kepler_name": "Kepler-272 d"
+  },
+  {
+    "kepler_name": "Kepler-272 b"
+  },
+  {
+    "kepler_name": "Kepler-782 b"
+  },
+  {
+    "kepler_name": "Kepler-273 b"
+  },
+  {
+    "kepler_name": "Kepler-741 b"
+  },
+  {
+    "kepler_name": "Kepler-742 b"
+  },
+  {
+    "kepler_name": "Kepler-1731 b"
+  },
+  {
+    "kepler_name": "Kepler-767 b"
+  },
+  {
+    "kepler_name": "Kepler-768 b"
+  },
+  {
+    "kepler_name": "Kepler-24 c"
+  },
+  {
+    "kepler_name": "Kepler-273 c"
+  },
+  {
+    "kepler_name": "Kepler-783 c"
+  },
+  {
+    "kepler_name": "Kepler-783 b"
+  },
+  {
+    "kepler_name": "Kepler-1738 b"
+  },
+  {
+    "kepler_name": "Kepler-42 b"
+  },
+  {
+    "kepler_name": "Kepler-42 c"
+  },
+  {
+    "kepler_name": "Kepler-42 d"
+  },
+  {
+    "kepler_name": "Kepler-290 c"
+  },
+  {
+    "kepler_name": "Kepler-290 b"
+  },
+  {
+    "kepler_name": "Kepler-290 d"
+  },
+  {
+    "kepler_name": "Kepler-61 b"
+  },
+  {
+    "kepler_name": "Kepler-297 c"
+  },
+  {
+    "kepler_name": "Kepler-297 d"
+  },
+  {
+    "kepler_name": "Kepler-844 b"
+  },
+  {
+    "kepler_name": "Kepler-845 b"
+  },
+  {
+    "kepler_name": "Kepler-1750 b"
+  },
+  {
+    "kepler_name": "Kepler-23 b"
+  },
+  {
+    "kepler_name": "Kepler-280 b"
+  },
+  {
+    "kepler_name": "Kepler-280 c"
+  },
+  {
+    "kepler_name": "Kepler-56 c"
+  },
+  {
+    "kepler_name": "Kepler-56 b"
+  },
+  {
+    "kepler_name": "Kepler-285 b"
+  },
+  {
+    "kepler_name": "Kepler-285 c"
+  },
+  {
+    "kepler_name": "Kepler-286 b"
+  },
+  {
+    "kepler_name": "Kepler-286 c"
+  },
+  {
+    "kepler_name": "Kepler-286 d"
+  },
+  {
+    "kepler_name": "Kepler-476 b"
+  },
+  {
+    "kepler_name": "Kepler-291 b"
+  },
+  {
+    "kepler_name": "Kepler-291 c"
+  },
+  {
+    "kepler_name": "Kepler-292 f"
+  },
+  {
+    "kepler_name": "Kepler-292 d"
+  },
+  {
+    "kepler_name": "Kepler-298 b"
+  },
+  {
+    "kepler_name": "Kepler-298 c"
+  },
+  {
+    "kepler_name": "Kepler-298 d"
+  },
+  {
+    "kepler_name": "Kepler-299 c"
+  },
+  {
+    "kepler_name": "Kepler-474 b"
+  },
+  {
+    "kepler_name": "Kepler-798 b"
+  },
+  {
+    "kepler_name": "Kepler-286 e"
+  },
+  {
+    "kepler_name": "Kepler-287 c"
+  },
+  {
+    "kepler_name": "Kepler-287 b"
+  },
+  {
+    "kepler_name": "Kepler-11 g"
+  },
+  {
+    "kepler_name": "Kepler-811 b"
+  },
+  {
+    "kepler_name": "Kepler-292 e"
+  },
+  {
+    "kepler_name": "Kepler-292 c"
+  },
+  {
+    "kepler_name": "Kepler-292 b"
+  },
+  {
+    "kepler_name": "Kepler-293 b"
+  },
+  {
+    "kepler_name": "Kepler-299 d"
+  },
+  {
+    "kepler_name": "Kepler-299 b"
+  },
+  {
+    "kepler_name": "Kepler-299 e"
+  },
+  {
+    "kepler_name": "Kepler-846 b"
+  },
+  {
+    "kepler_name": "Kepler-847 b"
+  },
+  {
+    "kepler_name": "Kepler-812 b"
+  },
+  {
+    "kepler_name": "Kepler-813 b"
+  },
+  {
+    "kepler_name": "Kepler-1667 b"
+  },
+  {
+    "kepler_name": "Kepler-814 b"
+  },
+  {
+    "kepler_name": "Kepler-293 c"
+  },
+  {
+    "kepler_name": "Kepler-5 b"
+  },
+  {
+    "kepler_name": "Kepler-477 b"
+  },
+  {
+    "kepler_name": "Kepler-828 b"
+  },
+  {
+    "kepler_name": "Kepler-300 c"
+  },
+  {
+    "kepler_name": "Kepler-300 b"
+  },
+  {
+    "kepler_name": "Kepler-301 b"
+  },
+  {
+    "kepler_name": "Kepler-301 d"
+  },
+  {
+    "kepler_name": "Kepler-114 c"
+  },
+  {
+    "kepler_name": "Kepler-815 b"
+  },
+  {
+    "kepler_name": "Kepler-1743 b"
+  },
+  {
+    "kepler_name": "Kepler-11 b"
+  },
+  {
+    "kepler_name": "Kepler-1745 b"
+  },
+  {
+    "kepler_name": "Kepler-829 b"
+  },
+  {
+    "kepler_name": "Kepler-301 c"
+  },
+  {
+    "kepler_name": "Kepler-1751 b"
+  },
+  {
+    "kepler_name": "Kepler-848 b"
+  },
+  {
+    "kepler_name": "Kepler-849 b"
+  },
+  {
+    "kepler_name": "Kepler-850 b"
+  },
+  {
+    "kepler_name": "Kepler-420 b"
+  },
+  {
+    "kepler_name": "Kepler-281 c"
+  },
+  {
+    "kepler_name": "Kepler-281 b"
+  },
+  {
+    "kepler_name": "Kepler-281 d"
+  },
+  {
+    "kepler_name": "Kepler-816 b"
+  },
+  {
+    "kepler_name": "Kepler-1746 b"
+  },
+  {
+    "kepler_name": "Kepler-830 b"
+  },
+  {
+    "kepler_name": "Kepler-116 b"
+  },
+  {
+    "kepler_name": "Kepler-854 b"
+  },
+  {
+    "kepler_name": "Kepler-799 b"
+  },
+  {
+    "kepler_name": "Kepler-114 b"
+  },
+  {
+    "kepler_name": "Kepler-799 c"
+  },
+  {
+    "kepler_name": "Kepler-817 b"
+  },
+  {
+    "kepler_name": "Kepler-818 b"
+  },
+  {
+    "kepler_name": "Kepler-831 b"
+  },
+  {
+    "kepler_name": "Kepler-851 b"
+  },
+  {
+    "kepler_name": "Kepler-407 b"
+  },
+  {
+    "kepler_name": "Kepler-852 b"
+  },
+  {
+    "kepler_name": "Kepler-800 b"
+  },
+  {
+    "kepler_name": "Kepler-801 b"
+  },
+  {
+    "kepler_name": "Kepler-819 b"
+  },
+  {
+    "kepler_name": "Kepler-288 c"
+  },
+  {
+    "kepler_name": "Kepler-478 b"
+  },
+  {
+    "kepler_name": "Kepler-853 b"
+  },
+  {
+    "kepler_name": "Kepler-57 b"
+  },
+  {
+    "kepler_name": "Kepler-114 d"
+  },
+  {
+    "kepler_name": "Kepler-57 c"
+  },
+  {
+    "kepler_name": "Kepler-802 b"
+  },
+  {
+    "kepler_name": "Kepler-288 b"
+  },
+  {
+    "kepler_name": "Kepler-288 d"
+  },
+  {
+    "kepler_name": "Kepler-115 c"
+  },
+  {
+    "kepler_name": "Kepler-855 b"
+  },
+  {
+    "kepler_name": "Kepler-856 b"
+  },
+  {
+    "kepler_name": "Kepler-421 b"
+  },
+  {
+    "kepler_name": "Kepler-803 b"
+  },
+  {
+    "kepler_name": "Kepler-1991 c"
+  },
+  {
+    "kepler_name": "Kepler-1991 b"
+  },
+  {
+    "kepler_name": "Kepler-820 b"
+  },
+  {
+    "kepler_name": "Kepler-58 b"
+  },
+  {
+    "kepler_name": "Kepler-58 c"
+  },
+  {
+    "kepler_name": "Kepler-58 d"
+  },
+  {
+    "kepler_name": "Kepler-58 e"
+  },
+  {
+    "kepler_name": "Kepler-1747 b"
+  },
+  {
+    "kepler_name": "Kepler-479 b"
+  },
+  {
+    "kepler_name": "Kepler-294 c"
+  },
+  {
+    "kepler_name": "Kepler-294 b"
+  },
+  {
+    "kepler_name": "Kepler-790 b"
+  },
+  {
+    "kepler_name": "Kepler-791 b"
+  },
+  {
+    "kepler_name": "Kepler-79 e"
+  },
+  {
+    "kepler_name": "Kepler-282 d"
+  },
+  {
+    "kepler_name": "Kepler-11 c"
+  },
+  {
+    "kepler_name": "Kepler-282 e"
+  },
+  {
+    "kepler_name": "Kepler-282 b"
+  },
+  {
+    "kepler_name": "Kepler-282 c"
+  },
+  {
+    "kepler_name": "Kepler-821 b"
+  },
+  {
+    "kepler_name": "Kepler-822 b"
+  },
+  {
+    "kepler_name": "Kepler-823 b"
+  },
+  {
+    "kepler_name": "Kepler-1748 b"
+  },
+  {
+    "kepler_name": "Kepler-832 b"
+  },
+  {
+    "kepler_name": "Kepler-833 b"
+  },
+  {
+    "kepler_name": "Kepler-792 b"
+  },
+  {
+    "kepler_name": "Kepler-793 b"
+  },
+  {
+    "kepler_name": "Kepler-277 b"
+  },
+  {
+    "kepler_name": "Kepler-804 b"
+  },
+  {
+    "kepler_name": "Kepler-804 c"
+  },
+  {
+    "kepler_name": "Kepler-1742 b"
+  },
+  {
+    "kepler_name": "Kepler-805 b"
+  },
+  {
+    "kepler_name": "Kepler-115 b"
+  },
+  {
+    "kepler_name": "Kepler-824 b"
+  },
+  {
+    "kepler_name": "Kepler-825 b"
+  },
+  {
+    "kepler_name": "Kepler-825 c"
+  },
+  {
+    "kepler_name": "Kepler-834 b"
+  },
+  {
+    "kepler_name": "Kepler-480 b"
+  },
+  {
+    "kepler_name": "Kepler-835 b"
+  },
+  {
+    "kepler_name": "Kepler-836 b"
+  },
+  {
+    "kepler_name": "Kepler-1749 b"
+  },
+  {
+    "kepler_name": "Kepler-277 c"
+  },
+  {
+    "kepler_name": "Kepler-794 b"
+  },
+  {
+    "kepler_name": "Kepler-795 b"
+  },
+  {
+    "kepler_name": "Kepler-113 c"
+  },
+  {
+    "kepler_name": "Kepler-806 b"
+  },
+  {
+    "kepler_name": "Kepler-11 d"
+  },
+  {
+    "kepler_name": "Kepler-826 b"
+  },
+  {
+    "kepler_name": "Kepler-837 b"
+  },
+  {
+    "kepler_name": "Kepler-838 b"
+  },
+  {
+    "kepler_name": "Kepler-839 b"
+  },
+  {
+    "kepler_name": "Kepler-295 b"
+  },
+  {
+    "kepler_name": "Kepler-295 c"
+  },
+  {
+    "kepler_name": "Kepler-295 d"
+  },
+  {
+    "kepler_name": "Kepler-796 b"
+  },
+  {
+    "kepler_name": "Kepler-278 b"
+  },
+  {
+    "kepler_name": "Kepler-278 c"
+  },
+  {
+    "kepler_name": "Kepler-807 b"
+  },
+  {
+    "kepler_name": "Kepler-289 c"
+  },
+  {
+    "kepler_name": "Kepler-289 b"
+  },
+  {
+    "kepler_name": "Kepler-23 c"
+  },
+  {
+    "kepler_name": "Kepler-840 b"
+  },
+  {
+    "kepler_name": "Kepler-113 b"
+  },
+  {
+    "kepler_name": "Kepler-6 b"
+  },
+  {
+    "kepler_name": "Kepler-11 e"
+  },
+  {
+    "kepler_name": "Kepler-827 b"
+  },
+  {
+    "kepler_name": "Kepler-1987 d"
+  },
+  {
+    "kepler_name": "Kepler-475 b"
+  },
+  {
+    "kepler_name": "Kepler-296 c"
+  },
+  {
+    "kepler_name": "Kepler-296 d"
+  },
+  {
+    "kepler_name": "Kepler-23 d"
+  },
+  {
+    "kepler_name": "Kepler-283 b"
+  },
+  {
+    "kepler_name": "Kepler-283 c"
+  },
+  {
+    "kepler_name": "Kepler-432 b"
+  },
+  {
+    "kepler_name": "Kepler-808 b"
+  },
+  {
+    "kepler_name": "Kepler-284 b"
+  },
+  {
+    "kepler_name": "Kepler-1987 e"
+  },
+  {
+    "kepler_name": "Kepler-1987 c"
+  },
+  {
+    "kepler_name": "Kepler-1987 b"
+  },
+  {
+    "kepler_name": "Kepler-1744 b"
+  },
+  {
+    "kepler_name": "Kepler-296 b"
+  },
+  {
+    "kepler_name": "Kepler-841 b"
+  },
+  {
+    "kepler_name": "Kepler-842 b"
+  },
+  {
+    "kepler_name": "Kepler-843 b"
+  },
+  {
+    "kepler_name": "Kepler-297 b"
+  },
+  {
+    "kepler_name": "Kepler-279 c"
+  },
+  {
+    "kepler_name": "Kepler-279 b"
+  },
+  {
+    "kepler_name": "Kepler-279 d"
+  },
+  {
+    "kepler_name": "Kepler-797 b"
+  },
+  {
+    "kepler_name": "Kepler-284 c"
+  },
+  {
+    "kepler_name": "Kepler-809 b"
+  },
+  {
+    "kepler_name": "Kepler-11 f"
+  },
+  {
+    "kepler_name": "Kepler-810 b"
+  },
+  {
+    "kepler_name": "Kepler-1758 b"
+  },
+  {
+    "kepler_name": "Kepler-904 b"
+  },
+  {
+    "kepler_name": "Kepler-316 b"
+  },
+  {
+    "kepler_name": "Kepler-1766 b"
+  },
+  {
+    "kepler_name": "Kepler-935 b"
+  },
+  {
+    "kepler_name": "Kepler-936 b"
+  },
+  {
+    "kepler_name": "Kepler-937 b"
+  },
+  {
+    "kepler_name": "Kepler-861 b"
+  },
+  {
+    "kepler_name": "Kepler-1753 b"
+  },
+  {
+    "kepler_name": "Kepler-862 b"
+  },
+  {
+    "kepler_name": "Kepler-304 b"
+  },
+  {
+    "kepler_name": "Kepler-304 d"
+  },
+  {
+    "kepler_name": "Kepler-304 c"
+  },
+  {
+    "kepler_name": "Kepler-484 b"
+  },
+  {
+    "kepler_name": "Kepler-304 e"
+  },
+  {
+    "kepler_name": "Kepler-905 b"
+  },
+  {
+    "kepler_name": "Kepler-311 b"
+  },
+  {
+    "kepler_name": "Kepler-311 c"
+  },
+  {
+    "kepler_name": "Kepler-906 b"
+  },
+  {
+    "kepler_name": "Kepler-1767 b"
+  },
+  {
+    "kepler_name": "Kepler-938 b"
+  },
+  {
+    "kepler_name": "Kepler-427 b"
+  },
+  {
+    "kepler_name": "Kepler-939 b"
+  },
+  {
+    "kepler_name": "Kepler-940 b"
+  },
+  {
+    "kepler_name": "Kepler-1754 b"
+  },
+  {
+    "kepler_name": "Kepler-863 b"
+  },
+  {
+    "kepler_name": "Kepler-482 b"
+  },
+  {
+    "kepler_name": "Kepler-408 b"
+  },
+  {
+    "kepler_name": "Kepler-907 b"
+  },
+  {
+    "kepler_name": "Kepler-425 b"
+  },
+  {
+    "kepler_name": "Kepler-908 b"
+  },
+  {
+    "kepler_name": "Kepler-941 b"
+  },
+  {
+    "kepler_name": "Kepler-1651 b"
+  },
+  {
+    "kepler_name": "Kepler-942 b"
+  },
+  {
+    "kepler_name": "Kepler-943 b"
+  },
+  {
+    "kepler_name": "Kepler-864 b"
+  },
+  {
+    "kepler_name": "Kepler-864 c"
+  },
+  {
+    "kepler_name": "Kepler-865 b"
+  },
+  {
+    "kepler_name": "Kepler-865 c"
+  },
+  {
+    "kepler_name": "Kepler-305 b"
+  },
+  {
+    "kepler_name": "Kepler-305 c"
+  },
+  {
+    "kepler_name": "Kepler-305 e"
+  },
+  {
+    "kepler_name": "Kepler-305 d"
+  },
+  {
+    "kepler_name": "Kepler-909 b"
+  },
+  {
+    "kepler_name": "Kepler-910 b"
+  },
+  {
+    "kepler_name": "Kepler-911 b"
+  },
+  {
+    "kepler_name": "Kepler-912 b"
+  },
+  {
+    "kepler_name": "Kepler-944 b"
+  },
+  {
+    "kepler_name": "Kepler-945 b"
+  },
+  {
+    "kepler_name": "Kepler-866 b"
+  },
+  {
+    "kepler_name": "Kepler-867 b"
+  },
+  {
+    "kepler_name": "Kepler-891 b"
+  },
+  {
+    "kepler_name": "Kepler-306 c"
+  },
+  {
+    "kepler_name": "Kepler-306 b"
+  },
+  {
+    "kepler_name": "Kepler-913 b"
+  },
+  {
+    "kepler_name": "Kepler-913 c"
+  },
+  {
+    "kepler_name": "Kepler-312 c"
+  },
+  {
+    "kepler_name": "Kepler-486 b"
+  },
+  {
+    "kepler_name": "Kepler-914 b"
+  },
+  {
+    "kepler_name": "Kepler-1671 b"
+  },
+  {
+    "kepler_name": "Kepler-946 b"
+  },
+  {
+    "kepler_name": "Kepler-947 b"
+  },
+  {
+    "kepler_name": "Kepler-948 b"
+  },
+  {
+    "kepler_name": "Kepler-868 b"
+  },
+  {
+    "kepler_name": "Kepler-869 b"
+  },
+  {
+    "kepler_name": "Kepler-870 b"
+  },
+  {
+    "kepler_name": "Kepler-871 b"
+  },
+  {
+    "kepler_name": "Kepler-306 d"
+  },
+  {
+    "kepler_name": "Kepler-306 e"
+  },
+  {
+    "kepler_name": "Kepler-892 b"
+  },
+  {
+    "kepler_name": "Kepler-893 b"
+  },
+  {
+    "kepler_name": "Kepler-915 b"
+  },
+  {
+    "kepler_name": "Kepler-916 b"
+  },
+  {
+    "kepler_name": "Kepler-917 b"
+  },
+  {
+    "kepler_name": "Kepler-422 b"
+  },
+  {
+    "kepler_name": "Kepler-872 b"
+  },
+  {
+    "kepler_name": "Kepler-483 b"
+  },
+  {
+    "kepler_name": "Kepler-894 b"
+  },
+  {
+    "kepler_name": "Kepler-1755 b"
+  },
+  {
+    "kepler_name": "Kepler-918 b"
+  },
+  {
+    "kepler_name": "Kepler-919 b"
+  },
+  {
+    "kepler_name": "Kepler-1759 b"
+  },
+  {
+    "kepler_name": "Kepler-949 b"
+  },
+  {
+    "kepler_name": "Kepler-949 c"
+  },
+  {
+    "kepler_name": "Kepler-488 b"
+  },
+  {
+    "kepler_name": "Kepler-1768 b"
+  },
+  {
+    "kepler_name": "Kepler-303 b"
+  },
+  {
+    "kepler_name": "Kepler-303 c"
+  },
+  {
+    "kepler_name": "Kepler-873 b"
+  },
+  {
+    "kepler_name": "Kepler-874 b"
+  },
+  {
+    "kepler_name": "Kepler-87 b"
+  },
+  {
+    "kepler_name": "Kepler-87 c"
+  },
+  {
+    "kepler_name": "Kepler-307 b"
+  },
+  {
+    "kepler_name": "Kepler-313 b"
+  },
+  {
+    "kepler_name": "Kepler-313 c"
+  },
+  {
+    "kepler_name": "Kepler-1760 b"
+  },
+  {
+    "kepler_name": "Kepler-1761 b"
+  },
+  {
+    "kepler_name": "Kepler-317 b"
+  },
+  {
+    "kepler_name": "Kepler-317 c"
+  },
+  {
+    "kepler_name": "Kepler-875 b"
+  },
+  {
+    "kepler_name": "Kepler-876 b"
+  },
+  {
+    "kepler_name": "Kepler-877 b"
+  },
+  {
+    "kepler_name": "Kepler-878 b"
+  },
+  {
+    "kepler_name": "Kepler-1711 b"
+  },
+  {
+    "kepler_name": "Kepler-307 c"
+  },
+  {
+    "kepler_name": "Kepler-423 b"
+  },
+  {
+    "kepler_name": "Kepler-895 b"
+  },
+  {
+    "kepler_name": "Kepler-920 b"
+  },
+  {
+    "kepler_name": "Kepler-921 b"
+  },
+  {
+    "kepler_name": "Kepler-922 b"
+  },
+  {
+    "kepler_name": "Kepler-426 b"
+  },
+  {
+    "kepler_name": "Kepler-318 b"
+  },
+  {
+    "kepler_name": "Kepler-318 c"
+  },
+  {
+    "kepler_name": "Kepler-411 c"
+  },
+  {
+    "kepler_name": "Kepler-411 b"
+  },
+  {
+    "kepler_name": "Kepler-879 b"
+  },
+  {
+    "kepler_name": "Kepler-880 b"
+  },
+  {
+    "kepler_name": "Kepler-881 b"
+  },
+  {
+    "kepler_name": "Kepler-896 c"
+  },
+  {
+    "kepler_name": "Kepler-896 b"
+  },
+  {
+    "kepler_name": "Kepler-897 b"
+  },
+  {
+    "kepler_name": "Kepler-898 b"
+  },
+  {
+    "kepler_name": "Kepler-487 b"
+  },
+  {
+    "kepler_name": "Kepler-1762 b"
+  },
+  {
+    "kepler_name": "Kepler-116 c"
+  },
+  {
+    "kepler_name": "Kepler-882 b"
+  },
+  {
+    "kepler_name": "Kepler-59 c"
+  },
+  {
+    "kepler_name": "Kepler-59 b"
+  },
+  {
+    "kepler_name": "Kepler-883 b"
+  },
+  {
+    "kepler_name": "Kepler-899 b"
+  },
+  {
+    "kepler_name": "Kepler-900 b"
+  },
+  {
+    "kepler_name": "Kepler-901 b"
+  },
+  {
+    "kepler_name": "Kepler-923 b"
+  },
+  {
+    "kepler_name": "Kepler-924 b"
+  },
+  {
+    "kepler_name": "Kepler-925 b"
+  },
+  {
+    "kepler_name": "Kepler-884 b"
+  },
+  {
+    "kepler_name": "Kepler-885 b"
+  },
+  {
+    "kepler_name": "Kepler-886 b"
+  },
+  {
+    "kepler_name": "Kepler-887 b"
+  },
+  {
+    "kepler_name": "Kepler-84 b"
+  },
+  {
+    "kepler_name": "Kepler-84 c"
+  },
+  {
+    "kepler_name": "Kepler-84 e"
+  },
+  {
+    "kepler_name": "Kepler-84 d"
+  },
+  {
+    "kepler_name": "Kepler-84 f"
+  },
+  {
+    "kepler_name": "Kepler-926 b"
+  },
+  {
+    "kepler_name": "Kepler-487 d"
+  },
+  {
+    "kepler_name": "Kepler-927 b"
+  },
+  {
+    "kepler_name": "Kepler-69 b"
+  },
+  {
+    "kepler_name": "Kepler-1668 b"
+  },
+  {
+    "kepler_name": "Kepler-887 c"
+  },
+  {
+    "kepler_name": "Kepler-888 b"
+  },
+  {
+    "kepler_name": "Kepler-889 b"
+  },
+  {
+    "kepler_name": "Kepler-1756 b"
+  },
+  {
+    "kepler_name": "Kepler-1757 b"
+  },
+  {
+    "kepler_name": "Kepler-1764 b"
+  },
+  {
+    "kepler_name": "Kepler-928 b"
+  },
+  {
+    "kepler_name": "Kepler-929 b"
+  },
+  {
+    "kepler_name": "Kepler-314 c"
+  },
+  {
+    "kepler_name": "Kepler-857 b"
+  },
+  {
+    "kepler_name": "Kepler-419 b"
+  },
+  {
+    "kepler_name": "Kepler-1669 c"
+  },
+  {
+    "kepler_name": "Kepler-1669 b"
+  },
+  {
+    "kepler_name": "Kepler-1669 d"
+  },
+  {
+    "kepler_name": "Kepler-3 b"
+  },
+  {
+    "kepler_name": "Kepler-12 b"
+  },
+  {
+    "kepler_name": "Kepler-458 c"
+  },
+  {
+    "kepler_name": "Kepler-308 b"
+  },
+  {
+    "kepler_name": "Kepler-308 c"
+  },
+  {
+    "kepler_name": "Kepler-902 b"
+  },
+  {
+    "kepler_name": "Kepler-314 b"
+  },
+  {
+    "kepler_name": "Kepler-931 b"
+  },
+  {
+    "kepler_name": "Kepler-1752 b"
+  },
+  {
+    "kepler_name": "Kepler-69 c"
+  },
+  {
+    "kepler_name": "Kepler-858 b"
+  },
+  {
+    "kepler_name": "Kepler-309 b"
+  },
+  {
+    "kepler_name": "Kepler-309 c"
+  },
+  {
+    "kepler_name": "Kepler-485 b"
+  },
+  {
+    "kepler_name": "Kepler-310 c"
+  },
+  {
+    "kepler_name": "Kepler-310 d"
+  },
+  {
+    "kepler_name": "Kepler-1650 b"
+  },
+  {
+    "kepler_name": "Kepler-1765 b"
+  },
+  {
+    "kepler_name": "Kepler-1670 b"
+  },
+  {
+    "kepler_name": "Kepler-932 b"
+  },
+  {
+    "kepler_name": "Kepler-315 b"
+  },
+  {
+    "kepler_name": "Kepler-859 b"
+  },
+  {
+    "kepler_name": "Kepler-860 b"
+  },
+  {
+    "kepler_name": "Kepler-458 b"
+  },
+  {
+    "kepler_name": "Kepler-310 b"
+  },
+  {
+    "kepler_name": "Kepler-1659 c"
+  },
+  {
+    "kepler_name": "Kepler-903 b"
+  },
+  {
+    "kepler_name": "Kepler-903 c"
+  },
+  {
+    "kepler_name": "Kepler-487 c"
+  },
+  {
+    "kepler_name": "Kepler-933 b"
+  },
+  {
+    "kepler_name": "Kepler-934 b"
+  },
+  {
+    "kepler_name": "Kepler-316 c"
+  },
+  {
+    "kepler_name": "Kepler-302 c"
+  },
+  {
+    "kepler_name": "Kepler-481 b"
+  },
+  {
+    "kepler_name": "Kepler-302 b"
+  },
+  {
+    "kepler_name": "Kepler-890 b"
+  },
+  {
+    "kepler_name": "Kepler-341 e"
+  },
+  {
+    "kepler_name": "Kepler-342 b"
+  },
+  {
+    "kepler_name": "Kepler-342 d"
+  },
+  {
+    "kepler_name": "Kepler-66 b"
+  },
+  {
+    "kepler_name": "Kepler-1026 b"
+  },
+  {
+    "kepler_name": "Kepler-1063 b"
+  },
+  {
+    "kepler_name": "Kepler-1064 b"
+  },
+  {
+    "kepler_name": "Kepler-1065 b"
+  },
+  {
+    "kepler_name": "Kepler-1066 b"
+  },
+  {
+    "kepler_name": "Kepler-353 c"
+  },
+  {
+    "kepler_name": "Kepler-964 b"
+  },
+  {
+    "kepler_name": "Kepler-965 b"
+  },
+  {
+    "kepler_name": "Kepler-490 b"
+  },
+  {
+    "kepler_name": "Kepler-966 b"
+  },
+  {
+    "kepler_name": "Kepler-492 b"
+  },
+  {
+    "kepler_name": "Kepler-1002 b"
+  },
+  {
+    "kepler_name": "Kepler-330 c"
+  },
+  {
+    "kepler_name": "Kepler-330 b"
+  },
+  {
+    "kepler_name": "Kepler-1674 b"
+  },
+  {
+    "kepler_name": "Kepler-343 b"
+  },
+  {
+    "kepler_name": "Kepler-1027 b"
+  },
+  {
+    "kepler_name": "Kepler-1028 b"
+  },
+  {
+    "kepler_name": "Kepler-494 b"
+  },
+  {
+    "kepler_name": "Kepler-353 b"
+  },
+  {
+    "kepler_name": "Kepler-1995 b"
+  },
+  {
+    "kepler_name": "Kepler-85 b"
+  },
+  {
+    "kepler_name": "Kepler-967 b"
+  },
+  {
+    "kepler_name": "Kepler-324 c"
+  },
+  {
+    "kepler_name": "Kepler-324 b"
+  },
+  {
+    "kepler_name": "Kepler-324 d"
+  },
+  {
+    "kepler_name": "Kepler-324 e"
+  },
+  {
+    "kepler_name": "Kepler-1003 b"
+  },
+  {
+    "kepler_name": "Kepler-1004 b"
+  },
+  {
+    "kepler_name": "Kepler-331 b"
+  },
+  {
+    "kepler_name": "Kepler-331 c"
+  },
+  {
+    "kepler_name": "Kepler-331 d"
+  },
+  {
+    "kepler_name": "Kepler-1774 b"
+  },
+  {
+    "kepler_name": "Kepler-1029 b"
+  },
+  {
+    "kepler_name": "Kepler-1778 b"
+  },
+  {
+    "kepler_name": "Kepler-1779 b"
+  },
+  {
+    "kepler_name": "Kepler-344 b"
+  },
+  {
+    "kepler_name": "Kepler-344 c"
+  },
+  {
+    "kepler_name": "Kepler-85 c"
+  },
+  {
+    "kepler_name": "Kepler-85 d"
+  },
+  {
+    "kepler_name": "Kepler-85 e"
+  },
+  {
+    "kepler_name": "Kepler-1067 c"
+  },
+  {
+    "kepler_name": "Kepler-1785 b"
+  },
+  {
+    "kepler_name": "Kepler-325 b"
+  },
+  {
+    "kepler_name": "Kepler-325 c"
+  },
+  {
+    "kepler_name": "Kepler-325 d"
+  },
+  {
+    "kepler_name": "Kepler-968 b"
+  },
+  {
+    "kepler_name": "Kepler-433 b"
+  },
+  {
+    "kepler_name": "Kepler-1005 b"
+  },
+  {
+    "kepler_name": "Kepler-1006 b"
+  },
+  {
+    "kepler_name": "Kepler-1007 b"
+  },
+  {
+    "kepler_name": "Kepler-1775 b"
+  },
+  {
+    "kepler_name": "Kepler-1030 b"
+  },
+  {
+    "kepler_name": "Kepler-1032 b"
+  },
+  {
+    "kepler_name": "Kepler-424 b"
+  },
+  {
+    "kepler_name": "Kepler-119 b"
+  },
+  {
+    "kepler_name": "Kepler-1786 b"
+  },
+  {
+    "kepler_name": "Kepler-1068 b"
+  },
+  {
+    "kepler_name": "Kepler-354 b"
+  },
+  {
+    "kepler_name": "Kepler-326 c"
+  },
+  {
+    "kepler_name": "Kepler-326 b"
+  },
+  {
+    "kepler_name": "Kepler-326 d"
+  },
+  {
+    "kepler_name": "Kepler-969 b"
+  },
+  {
+    "kepler_name": "Kepler-970 b"
+  },
+  {
+    "kepler_name": "Kepler-1008 b"
+  },
+  {
+    "kepler_name": "Kepler-332 b"
+  },
+  {
+    "kepler_name": "Kepler-1009 b"
+  },
+  {
+    "kepler_name": "Kepler-1780 b"
+  },
+  {
+    "kepler_name": "Kepler-1033 b"
+  },
+  {
+    "kepler_name": "Kepler-1034 b"
+  },
+  {
+    "kepler_name": "Kepler-345 c"
+  },
+  {
+    "kepler_name": "Kepler-345 b"
+  },
+  {
+    "kepler_name": "Kepler-354 d"
+  },
+  {
+    "kepler_name": "Kepler-1069 b"
+  },
+  {
+    "kepler_name": "Kepler-1070 b"
+  },
+  {
+    "kepler_name": "Kepler-1071 b"
+  },
+  {
+    "kepler_name": "Kepler-1072 b"
+  },
+  {
+    "kepler_name": "Kepler-971 b"
+  },
+  {
+    "kepler_name": "Kepler-972 b"
+  },
+  {
+    "kepler_name": "Kepler-973 b"
+  },
+  {
+    "kepler_name": "Kepler-1770 b"
+  },
+  {
+    "kepler_name": "Kepler-74 b"
+  },
+  {
+    "kepler_name": "Kepler-333 b"
+  },
+  {
+    "kepler_name": "Kepler-493 b"
+  },
+  {
+    "kepler_name": "Kepler-333 c"
+  },
+  {
+    "kepler_name": "Kepler-334 c"
+  },
+  {
+    "kepler_name": "Kepler-334 b"
+  },
+  {
+    "kepler_name": "Kepler-346 b"
+  },
+  {
+    "kepler_name": "Kepler-346 c"
+  },
+  {
+    "kepler_name": "Kepler-1035 b"
+  },
+  {
+    "kepler_name": "Kepler-1036 b"
+  },
+  {
+    "kepler_name": "Kepler-1781 b"
+  },
+  {
+    "kepler_name": "Kepler-1076 b"
+  },
+  {
+    "kepler_name": "Kepler-1788 b"
+  },
+  {
+    "kepler_name": "Kepler-1077 b"
+  },
+  {
+    "kepler_name": "Kepler-495 b"
+  },
+  {
+    "kepler_name": "Kepler-1078 b"
+  },
+  {
+    "kepler_name": "Kepler-974 b"
+  },
+  {
+    "kepler_name": "Kepler-975 b"
+  },
+  {
+    "kepler_name": "Kepler-975 c"
+  },
+  {
+    "kepler_name": "Kepler-977 b"
+  },
+  {
+    "kepler_name": "Kepler-334 d"
+  },
+  {
+    "kepler_name": "Kepler-1010 b"
+  },
+  {
+    "kepler_name": "Kepler-1011 b"
+  },
+  {
+    "kepler_name": "Kepler-1012 b"
+  },
+  {
+    "kepler_name": "Kepler-1013 b"
+  },
+  {
+    "kepler_name": "Kepler-1677 b"
+  },
+  {
+    "kepler_name": "Kepler-1782 b"
+  },
+  {
+    "kepler_name": "Kepler-1038 b"
+  },
+  {
+    "kepler_name": "Kepler-1039 b"
+  },
+  {
+    "kepler_name": "Kepler-355 c"
+  },
+  {
+    "kepler_name": "Kepler-355 b"
+  },
+  {
+    "kepler_name": "Kepler-119 c"
+  },
+  {
+    "kepler_name": "Kepler-356 c"
+  },
+  {
+    "kepler_name": "Kepler-978 b"
+  },
+  {
+    "kepler_name": "Kepler-979 b"
+  },
+  {
+    "kepler_name": "Kepler-980 b"
+  },
+  {
+    "kepler_name": "Kepler-981 b"
+  },
+  {
+    "kepler_name": "Kepler-982 b"
+  },
+  {
+    "kepler_name": "Kepler-335 b"
+  },
+  {
+    "kepler_name": "Kepler-336 d"
+  },
+  {
+    "kepler_name": "Kepler-117 c"
+  },
+  {
+    "kepler_name": "Kepler-336 c"
+  },
+  {
+    "kepler_name": "Kepler-336 b"
+  },
+  {
+    "kepler_name": "Kepler-1040 b"
+  },
+  {
+    "kepler_name": "Kepler-1041 b"
+  },
+  {
+    "kepler_name": "Kepler-347 b"
+  },
+  {
+    "kepler_name": "Kepler-1042 b"
+  },
+  {
+    "kepler_name": "Kepler-1043 b"
+  },
+  {
+    "kepler_name": "Kepler-356 b"
+  },
+  {
+    "kepler_name": "Kepler-1073 b"
+  },
+  {
+    "kepler_name": "Kepler-1787 b"
+  },
+  {
+    "kepler_name": "Kepler-1074 b"
+  },
+  {
+    "kepler_name": "Kepler-1075 b"
+  },
+  {
+    "kepler_name": "Kepler-491 b"
+  },
+  {
+    "kepler_name": "Kepler-983 b"
+  },
+  {
+    "kepler_name": "Kepler-984 b"
+  },
+  {
+    "kepler_name": "Kepler-1771 b"
+  },
+  {
+    "kepler_name": "Kepler-1776 b"
+  },
+  {
+    "kepler_name": "Kepler-1014 b"
+  },
+  {
+    "kepler_name": "Kepler-1015 b"
+  },
+  {
+    "kepler_name": "Kepler-1016 b"
+  },
+  {
+    "kepler_name": "Kepler-1017 b"
+  },
+  {
+    "kepler_name": "Kepler-1044 b"
+  },
+  {
+    "kepler_name": "Kepler-118 c"
+  },
+  {
+    "kepler_name": "Kepler-1045 b"
+  },
+  {
+    "kepler_name": "Kepler-1783 b"
+  },
+  {
+    "kepler_name": "Kepler-1046 b"
+  },
+  {
+    "kepler_name": "Kepler-1678 b"
+  },
+  {
+    "kepler_name": "Kepler-1079 b"
+  },
+  {
+    "kepler_name": "Kepler-1080 b"
+  },
+  {
+    "kepler_name": "Kepler-1081 b"
+  },
+  {
+    "kepler_name": "Kepler-985 b"
+  },
+  {
+    "kepler_name": "Kepler-416 b"
+  },
+  {
+    "kepler_name": "Kepler-416 c"
+  },
+  {
+    "kepler_name": "Kepler-416 d"
+  },
+  {
+    "kepler_name": "Kepler-409 b"
+  },
+  {
+    "kepler_name": "Kepler-117 b"
+  },
+  {
+    "kepler_name": "Kepler-1675 b"
+  },
+  {
+    "kepler_name": "Kepler-337 c"
+  },
+  {
+    "kepler_name": "Kepler-1047 b"
+  },
+  {
+    "kepler_name": "Kepler-1048 b"
+  },
+  {
+    "kepler_name": "Kepler-1049 b"
+  },
+  {
+    "kepler_name": "Kepler-1050 b"
+  },
+  {
+    "kepler_name": "Kepler-1662 b"
+  },
+  {
+    "kepler_name": "Kepler-950 b"
+  },
+  {
+    "kepler_name": "Kepler-951 b"
+  },
+  {
+    "kepler_name": "Kepler-412 b"
+  },
+  {
+    "kepler_name": "Kepler-986 b"
+  },
+  {
+    "kepler_name": "Kepler-1673 b"
+  },
+  {
+    "kepler_name": "Kepler-1772 b"
+  },
+  {
+    "kepler_name": "Kepler-337 b"
+  },
+  {
+    "kepler_name": "Kepler-338 b"
+  },
+  {
+    "kepler_name": "Kepler-338 c"
+  },
+  {
+    "kepler_name": "Kepler-338 d"
+  },
+  {
+    "kepler_name": "Kepler-338 e"
+  },
+  {
+    "kepler_name": "Kepler-339 b"
+  },
+  {
+    "kepler_name": "Kepler-1050 c"
+  },
+  {
+    "kepler_name": "Kepler-118 b"
+  },
+  {
+    "kepler_name": "Kepler-1051 b"
+  },
+  {
+    "kepler_name": "Kepler-952 b"
+  },
+  {
+    "kepler_name": "Kepler-41 b"
+  },
+  {
+    "kepler_name": "Kepler-954 b"
+  },
+  {
+    "kepler_name": "Kepler-987 b"
+  },
+  {
+    "kepler_name": "Kepler-327 b"
+  },
+  {
+    "kepler_name": "Kepler-327 d"
+  },
+  {
+    "kepler_name": "Kepler-327 c"
+  },
+  {
+    "kepler_name": "Kepler-988 b"
+  },
+  {
+    "kepler_name": "Kepler-339 d"
+  },
+  {
+    "kepler_name": "Kepler-339 c"
+  },
+  {
+    "kepler_name": "Kepler-340 c"
+  },
+  {
+    "kepler_name": "Kepler-1018 b"
+  },
+  {
+    "kepler_name": "Kepler-348 b"
+  },
+  {
+    "kepler_name": "Kepler-1052 b"
+  },
+  {
+    "kepler_name": "Kepler-1053 b"
+  },
+  {
+    "kepler_name": "Kepler-1054 b"
+  },
+  {
+    "kepler_name": "Kepler-447 b"
+  },
+  {
+    "kepler_name": "Kepler-955 b"
+  },
+  {
+    "kepler_name": "Kepler-956 b"
+  },
+  {
+    "kepler_name": "Kepler-989 b"
+  },
+  {
+    "kepler_name": "Kepler-1996 c"
+  },
+  {
+    "kepler_name": "Kepler-17 b"
+  },
+  {
+    "kepler_name": "Kepler-328 c"
+  },
+  {
+    "kepler_name": "Kepler-1019 b"
+  },
+  {
+    "kepler_name": "Kepler-1020 b"
+  },
+  {
+    "kepler_name": "Kepler-1021 b"
+  },
+  {
+    "kepler_name": "Kepler-1055 b"
+  },
+  {
+    "kepler_name": "Kepler-1056 b"
+  },
+  {
+    "kepler_name": "Kepler-1057 b"
+  },
+  {
+    "kepler_name": "Kepler-71 b"
+  },
+  {
+    "kepler_name": "Kepler-1058 b"
+  },
+  {
+    "kepler_name": "Kepler-319 c"
+  },
+  {
+    "kepler_name": "Kepler-489 b"
+  },
+  {
+    "kepler_name": "Kepler-319 d"
+  },
+  {
+    "kepler_name": "Kepler-319 b"
+  },
+  {
+    "kepler_name": "Kepler-329 c"
+  },
+  {
+    "kepler_name": "Kepler-329 b"
+  },
+  {
+    "kepler_name": "Kepler-990 b"
+  },
+  {
+    "kepler_name": "Kepler-991 b"
+  },
+  {
+    "kepler_name": "Kepler-992 b"
+  },
+  {
+    "kepler_name": "Kepler-1022 b"
+  },
+  {
+    "kepler_name": "Kepler-1978 b"
+  },
+  {
+    "kepler_name": "Kepler-1777 b"
+  },
+  {
+    "kepler_name": "Kepler-1059 b"
+  },
+  {
+    "kepler_name": "Kepler-349 b"
+  },
+  {
+    "kepler_name": "Kepler-349 c"
+  },
+  {
+    "kepler_name": "Kepler-1784 b"
+  },
+  {
+    "kepler_name": "Kepler-1060 b"
+  },
+  {
+    "kepler_name": "Kepler-1769 b"
+  },
+  {
+    "kepler_name": "Kepler-321 c"
+  },
+  {
+    "kepler_name": "Kepler-321 b"
+  },
+  {
+    "kepler_name": "Kepler-958 b"
+  },
+  {
+    "kepler_name": "Kepler-1773 b"
+  },
+  {
+    "kepler_name": "Kepler-993 b"
+  },
+  {
+    "kepler_name": "Kepler-994 b"
+  },
+  {
+    "kepler_name": "Kepler-44 b"
+  },
+  {
+    "kepler_name": "Kepler-1023 b"
+  },
+  {
+    "kepler_name": "Kepler-350 c"
+  },
+  {
+    "kepler_name": "Kepler-350 d"
+  },
+  {
+    "kepler_name": "Kepler-350 b"
+  },
+  {
+    "kepler_name": "Kepler-1061 b"
+  },
+  {
+    "kepler_name": "Kepler-959 b"
+  },
+  {
+    "kepler_name": "Kepler-960 b"
+  },
+  {
+    "kepler_name": "Kepler-961 b"
+  },
+  {
+    "kepler_name": "Kepler-962 b"
+  },
+  {
+    "kepler_name": "Kepler-995 b"
+  },
+  {
+    "kepler_name": "Kepler-996 b"
+  },
+  {
+    "kepler_name": "Kepler-997 b"
+  },
+  {
+    "kepler_name": "Kepler-1024 b"
+  },
+  {
+    "kepler_name": "Kepler-341 c"
+  },
+  {
+    "kepler_name": "Kepler-341 d"
+  },
+  {
+    "kepler_name": "Kepler-341 b"
+  },
+  {
+    "kepler_name": "Kepler-351 c"
+  },
+  {
+    "kepler_name": "Kepler-351 b"
+  },
+  {
+    "kepler_name": "Kepler-352 c"
+  },
+  {
+    "kepler_name": "Kepler-352 b"
+  },
+  {
+    "kepler_name": "Kepler-1062 b"
+  },
+  {
+    "kepler_name": "Kepler-322 c"
+  },
+  {
+    "kepler_name": "Kepler-322 b"
+  },
+  {
+    "kepler_name": "Kepler-1672 b"
+  },
+  {
+    "kepler_name": "Kepler-323 c"
+  },
+  {
+    "kepler_name": "Kepler-323 b"
+  },
+  {
+    "kepler_name": "Kepler-998 b"
+  },
+  {
+    "kepler_name": "Kepler-999 b"
+  },
+  {
+    "kepler_name": "Kepler-1000 b"
+  },
+  {
+    "kepler_name": "Kepler-1001 b"
+  },
+  {
+    "kepler_name": "Kepler-1001 c"
+  },
+  {
+    "kepler_name": "Kepler-1814 b"
+  },
+  {
+    "kepler_name": "Kepler-1158 b"
+  },
+  {
+    "kepler_name": "Kepler-1159 b"
+  },
+  {
+    "kepler_name": "Kepler-1160 b"
+  },
+  {
+    "kepler_name": "Kepler-1195 b"
+  },
+  {
+    "kepler_name": "Kepler-1196 b"
+  },
+  {
+    "kepler_name": "Kepler-1197 b"
+  },
+  {
+    "kepler_name": "Kepler-501 c"
+  },
+  {
+    "kepler_name": "Kepler-1096 b"
+  },
+  {
+    "kepler_name": "Kepler-1097 b"
+  },
+  {
+    "kepler_name": "Kepler-1098 b"
+  },
+  {
+    "kepler_name": "Kepler-121 b"
+  },
+  {
+    "kepler_name": "Kepler-1099 b"
+  },
+  {
+    "kepler_name": "Kepler-367 b"
+  },
+  {
+    "kepler_name": "Kepler-367 c"
+  },
+  {
+    "kepler_name": "Kepler-1802 c"
+  },
+  {
+    "kepler_name": "Kepler-1802 b"
+  },
+  {
+    "kepler_name": "Kepler-1161 b"
+  },
+  {
+    "kepler_name": "Kepler-1162 b"
+  },
+  {
+    "kepler_name": "Kepler-1815 b"
+  },
+  {
+    "kepler_name": "Kepler-1163 b"
+  },
+  {
+    "kepler_name": "Kepler-1164 b"
+  },
+  {
+    "kepler_name": "Kepler-1198 b"
+  },
+  {
+    "kepler_name": "Kepler-1199 b"
+  },
+  {
+    "kepler_name": "Kepler-1200 b"
+  },
+  {
+    "kepler_name": "Kepler-1100 b"
+  },
+  {
+    "kepler_name": "Kepler-1679 b"
+  },
+  {
+    "kepler_name": "Kepler-1101 b"
+  },
+  {
+    "kepler_name": "Kepler-1102 b"
+  },
+  {
+    "kepler_name": "Kepler-1103 b"
+  },
+  {
+    "kepler_name": "Kepler-368 b"
+  },
+  {
+    "kepler_name": "Kepler-1132 b"
+  },
+  {
+    "kepler_name": "Kepler-369 c"
+  },
+  {
+    "kepler_name": "Kepler-369 b"
+  },
+  {
+    "kepler_name": "Kepler-498 b"
+  },
+  {
+    "kepler_name": "Kepler-1165 c"
+  },
+  {
+    "kepler_name": "Kepler-1166 b"
+  },
+  {
+    "kepler_name": "Kepler-1201 b"
+  },
+  {
+    "kepler_name": "Kepler-1202 b"
+  },
+  {
+    "kepler_name": "Kepler-1203 b"
+  },
+  {
+    "kepler_name": "Kepler-1204 b"
+  },
+  {
+    "kepler_name": "Kepler-1205 b"
+  },
+  {
+    "kepler_name": "Kepler-1104 b"
+  },
+  {
+    "kepler_name": "Kepler-360 b"
+  },
+  {
+    "kepler_name": "Kepler-360 c"
+  },
+  {
+    "kepler_name": "Kepler-417 c"
+  },
+  {
+    "kepler_name": "Kepler-121 c"
+  },
+  {
+    "kepler_name": "Kepler-1133 b"
+  },
+  {
+    "kepler_name": "Kepler-1804 b"
+  },
+  {
+    "kepler_name": "Kepler-1134 b"
+  },
+  {
+    "kepler_name": "Kepler-370 c"
+  },
+  {
+    "kepler_name": "Kepler-370 b"
+  },
+  {
+    "kepler_name": "Kepler-1167 b"
+  },
+  {
+    "kepler_name": "Kepler-1168 b"
+  },
+  {
+    "kepler_name": "Kepler-1169 b"
+  },
+  {
+    "kepler_name": "Kepler-502 b"
+  },
+  {
+    "kepler_name": "Kepler-1828 b"
+  },
+  {
+    "kepler_name": "Kepler-381 c"
+  },
+  {
+    "kepler_name": "Kepler-381 b"
+  },
+  {
+    "kepler_name": "Kepler-381 d"
+  },
+  {
+    "kepler_name": "Kepler-417 b"
+  },
+  {
+    "kepler_name": "Kepler-1105 b"
+  },
+  {
+    "kepler_name": "Kepler-67 b"
+  },
+  {
+    "kepler_name": "Kepler-1106 b"
+  },
+  {
+    "kepler_name": "Kepler-1795 b"
+  },
+  {
+    "kepler_name": "Kepler-1135 b"
+  },
+  {
+    "kepler_name": "Kepler-1805 b"
+  },
+  {
+    "kepler_name": "Kepler-1170 b"
+  },
+  {
+    "kepler_name": "Kepler-499 b"
+  },
+  {
+    "kepler_name": "Kepler-1171 b"
+  },
+  {
+    "kepler_name": "Kepler-376 c"
+  },
+  {
+    "kepler_name": "Kepler-376 b"
+  },
+  {
+    "kepler_name": "Kepler-1830 b"
+  },
+  {
+    "kepler_name": "Kepler-124 c"
+  },
+  {
+    "kepler_name": "Kepler-1831 b"
+  },
+  {
+    "kepler_name": "Kepler-1208 b"
+  },
+  {
+    "kepler_name": "Kepler-1107 b"
+  },
+  {
+    "kepler_name": "Kepler-1680 b"
+  },
+  {
+    "kepler_name": "Kepler-1108 b"
+  },
+  {
+    "kepler_name": "Kepler-1109 b"
+  },
+  {
+    "kepler_name": "Kepler-1796 b"
+  },
+  {
+    "kepler_name": "Kepler-122 c"
+  },
+  {
+    "kepler_name": "Kepler-1136 b"
+  },
+  {
+    "kepler_name": "Kepler-371 b"
+  },
+  {
+    "kepler_name": "Kepler-372 c"
+  },
+  {
+    "kepler_name": "Kepler-1138 b"
+  },
+  {
+    "kepler_name": "Kepler-377 c"
+  },
+  {
+    "kepler_name": "Kepler-377 b"
+  },
+  {
+    "kepler_name": "Kepler-1172 b"
+  },
+  {
+    "kepler_name": "Kepler-1173 b"
+  },
+  {
+    "kepler_name": "Kepler-1174 b"
+  },
+  {
+    "kepler_name": "Kepler-1210 b"
+  },
+  {
+    "kepler_name": "Kepler-1211 b"
+  },
+  {
+    "kepler_name": "Kepler-124 d"
+  },
+  {
+    "kepler_name": "Kepler-1797 b"
+  },
+  {
+    "kepler_name": "Kepler-1110 b"
+  },
+  {
+    "kepler_name": "Kepler-1139 b"
+  },
+  {
+    "kepler_name": "Kepler-1807 b"
+  },
+  {
+    "kepler_name": "Kepler-1140 b"
+  },
+  {
+    "kepler_name": "Kepler-1175 b"
+  },
+  {
+    "kepler_name": "Kepler-1176 b"
+  },
+  {
+    "kepler_name": "Kepler-1829 b"
+  },
+  {
+    "kepler_name": "Kepler-1206 b"
+  },
+  {
+    "kepler_name": "Kepler-1207 b"
+  },
+  {
+    "kepler_name": "Kepler-1111 b"
+  },
+  {
+    "kepler_name": "Kepler-1798 b"
+  },
+  {
+    "kepler_name": "Kepler-1112 b"
+  },
+  {
+    "kepler_name": "Kepler-1681 b"
+  },
+  {
+    "kepler_name": "Kepler-91 b"
+  },
+  {
+    "kepler_name": "Kepler-1141 b"
+  },
+  {
+    "kepler_name": "Kepler-122 b"
+  },
+  {
+    "kepler_name": "Kepler-1142 b"
+  },
+  {
+    "kepler_name": "Kepler-1143 b"
+  },
+  {
+    "kepler_name": "Kepler-1144 b"
+  },
+  {
+    "kepler_name": "Kepler-378 b"
+  },
+  {
+    "kepler_name": "Kepler-379 c"
+  },
+  {
+    "kepler_name": "Kepler-1816 b"
+  },
+  {
+    "kepler_name": "Kepler-1817 b"
+  },
+  {
+    "kepler_name": "Kepler-1832 b"
+  },
+  {
+    "kepler_name": "Kepler-430 b"
+  },
+  {
+    "kepler_name": "Kepler-1209 b"
+  },
+  {
+    "kepler_name": "Kepler-1833 b"
+  },
+  {
+    "kepler_name": "Kepler-1113 b"
+  },
+  {
+    "kepler_name": "Kepler-361 c"
+  },
+  {
+    "kepler_name": "Kepler-1114 b"
+  },
+  {
+    "kepler_name": "Kepler-1145 b"
+  },
+  {
+    "kepler_name": "Kepler-1146 b"
+  },
+  {
+    "kepler_name": "Kepler-1808 b"
+  },
+  {
+    "kepler_name": "Kepler-1683 b"
+  },
+  {
+    "kepler_name": "Kepler-1177 b"
+  },
+  {
+    "kepler_name": "Kepler-500 b"
+  },
+  {
+    "kepler_name": "Kepler-1212 b"
+  },
+  {
+    "kepler_name": "Kepler-1213 b"
+  },
+  {
+    "kepler_name": "Kepler-382 b"
+  },
+  {
+    "kepler_name": "Kepler-382 c"
+  },
+  {
+    "kepler_name": "Kepler-1115 b"
+  },
+  {
+    "kepler_name": "Kepler-1116 b"
+  },
+  {
+    "kepler_name": "Kepler-1117 b"
+  },
+  {
+    "kepler_name": "Kepler-1118 b"
+  },
+  {
+    "kepler_name": "Kepler-1119 b"
+  },
+  {
+    "kepler_name": "Kepler-373 b"
+  },
+  {
+    "kepler_name": "Kepler-373 c"
+  },
+  {
+    "kepler_name": "Kepler-122 d"
+  },
+  {
+    "kepler_name": "Kepler-1809 b"
+  },
+  {
+    "kepler_name": "Kepler-374 c"
+  },
+  {
+    "kepler_name": "Kepler-1818 b"
+  },
+  {
+    "kepler_name": "Kepler-1819 b"
+  },
+  {
+    "kepler_name": "Kepler-1179 b"
+  },
+  {
+    "kepler_name": "Kepler-1180 b"
+  },
+  {
+    "kepler_name": "Kepler-1082 b"
+  },
+  {
+    "kepler_name": "Kepler-357 d"
+  },
+  {
+    "kepler_name": "Kepler-357 b"
+  },
+  {
+    "kepler_name": "Kepler-357 c"
+  },
+  {
+    "kepler_name": "Kepler-1120 b"
+  },
+  {
+    "kepler_name": "Kepler-362 c"
+  },
+  {
+    "kepler_name": "Kepler-496 b"
+  },
+  {
+    "kepler_name": "Kepler-363 d"
+  },
+  {
+    "kepler_name": "Kepler-363 c"
+  },
+  {
+    "kepler_name": "Kepler-374 d"
+  },
+  {
+    "kepler_name": "Kepler-374 b"
+  },
+  {
+    "kepler_name": "Kepler-1147 b"
+  },
+  {
+    "kepler_name": "Kepler-1148 b"
+  },
+  {
+    "kepler_name": "Kepler-1181 b"
+  },
+  {
+    "kepler_name": "Kepler-1182 b"
+  },
+  {
+    "kepler_name": "Kepler-1820 b"
+  },
+  {
+    "kepler_name": "Kepler-495 c"
+  },
+  {
+    "kepler_name": "Kepler-1083 b"
+  },
+  {
+    "kepler_name": "Kepler-1084 b"
+  },
+  {
+    "kepler_name": "Kepler-1085 c"
+  },
+  {
+    "kepler_name": "Kepler-1086 b"
+  },
+  {
+    "kepler_name": "Kepler-363 b"
+  },
+  {
+    "kepler_name": "Kepler-1121 b"
+  },
+  {
+    "kepler_name": "Kepler-1979 b"
+  },
+  {
+    "kepler_name": "Kepler-1122 b"
+  },
+  {
+    "kepler_name": "Kepler-1149 b"
+  },
+  {
+    "kepler_name": "Kepler-1150 b"
+  },
+  {
+    "kepler_name": "Kepler-122 e"
+  },
+  {
+    "kepler_name": "Kepler-123 b"
+  },
+  {
+    "kepler_name": "Kepler-1183 b"
+  },
+  {
+    "kepler_name": "Kepler-1184 b"
+  },
+  {
+    "kepler_name": "Kepler-1821 b"
+  },
+  {
+    "kepler_name": "Kepler-1087 b"
+  },
+  {
+    "kepler_name": "Kepler-358 c"
+  },
+  {
+    "kepler_name": "Kepler-358 b"
+  },
+  {
+    "kepler_name": "Kepler-1790 b"
+  },
+  {
+    "kepler_name": "Kepler-364 c"
+  },
+  {
+    "kepler_name": "Kepler-364 b"
+  },
+  {
+    "kepler_name": "Kepler-1799 b"
+  },
+  {
+    "kepler_name": "Kepler-1123 b"
+  },
+  {
+    "kepler_name": "Kepler-1124 b"
+  },
+  {
+    "kepler_name": "Kepler-1151 b"
+  },
+  {
+    "kepler_name": "Kepler-1682 b"
+  },
+  {
+    "kepler_name": "Kepler-1810 b"
+  },
+  {
+    "kepler_name": "Kepler-1186 b"
+  },
+  {
+    "kepler_name": "Kepler-1187 b"
+  },
+  {
+    "kepler_name": "Kepler-1822 b"
+  },
+  {
+    "kepler_name": "Kepler-1188 b"
+  },
+  {
+    "kepler_name": "Kepler-123 c"
+  },
+  {
+    "kepler_name": "Kepler-1791 b"
+  },
+  {
+    "kepler_name": "Kepler-120 b"
+  },
+  {
+    "kepler_name": "Kepler-1792 b"
+  },
+  {
+    "kepler_name": "Kepler-60 b"
+  },
+  {
+    "kepler_name": "Kepler-60 c"
+  },
+  {
+    "kepler_name": "Kepler-1800 b"
+  },
+  {
+    "kepler_name": "Kepler-1125 b"
+  },
+  {
+    "kepler_name": "Kepler-1126 b"
+  },
+  {
+    "kepler_name": "Kepler-375 c"
+  },
+  {
+    "kepler_name": "Kepler-375 b"
+  },
+  {
+    "kepler_name": "Kepler-1811 b"
+  },
+  {
+    "kepler_name": "Kepler-122 f"
+  },
+  {
+    "kepler_name": "Kepler-1152 b"
+  },
+  {
+    "kepler_name": "Kepler-1189 b"
+  },
+  {
+    "kepler_name": "Kepler-1190 b"
+  },
+  {
+    "kepler_name": "Kepler-1823 b"
+  },
+  {
+    "kepler_name": "Kepler-1824 b"
+  },
+  {
+    "kepler_name": "Kepler-60 d"
+  },
+  {
+    "kepler_name": "Kepler-1088 b"
+  },
+  {
+    "kepler_name": "Kepler-1089 b"
+  },
+  {
+    "kepler_name": "Kepler-1793 b"
+  },
+  {
+    "kepler_name": "Kepler-359 c"
+  },
+  {
+    "kepler_name": "Kepler-365 b"
+  },
+  {
+    "kepler_name": "Kepler-1127 b"
+  },
+  {
+    "kepler_name": "Kepler-497 b"
+  },
+  {
+    "kepler_name": "Kepler-1128 b"
+  },
+  {
+    "kepler_name": "Kepler-1129 b"
+  },
+  {
+    "kepler_name": "Kepler-1812 b"
+  },
+  {
+    "kepler_name": "Kepler-1153 b"
+  },
+  {
+    "kepler_name": "Kepler-1154 b"
+  },
+  {
+    "kepler_name": "Kepler-1155 b"
+  },
+  {
+    "kepler_name": "Kepler-1156 b"
+  },
+  {
+    "kepler_name": "Kepler-1825 b"
+  },
+  {
+    "kepler_name": "Kepler-1191 b"
+  },
+  {
+    "kepler_name": "Kepler-1192 b"
+  },
+  {
+    "kepler_name": "Kepler-1826 b"
+  },
+  {
+    "kepler_name": "Kepler-501 b"
+  },
+  {
+    "kepler_name": "Kepler-359 b"
+  },
+  {
+    "kepler_name": "Kepler-120 c"
+  },
+  {
+    "kepler_name": "Kepler-1090 c"
+  },
+  {
+    "kepler_name": "Kepler-1091 b"
+  },
+  {
+    "kepler_name": "Kepler-366 b"
+  },
+  {
+    "kepler_name": "Kepler-366 c"
+  },
+  {
+    "kepler_name": "Kepler-1130 b"
+  },
+  {
+    "kepler_name": "Kepler-1130 c"
+  },
+  {
+    "kepler_name": "Kepler-1157 b"
+  },
+  {
+    "kepler_name": "Kepler-1813 b"
+  },
+  {
+    "kepler_name": "Kepler-1193 b"
+  },
+  {
+    "kepler_name": "Kepler-1827 b"
+  },
+  {
+    "kepler_name": "Kepler-380 b"
+  },
+  {
+    "kepler_name": "Kepler-380 c"
+  },
+  {
+    "kepler_name": "Kepler-1194 b"
+  },
+  {
+    "kepler_name": "Kepler-1794 b"
+  },
+  {
+    "kepler_name": "Kepler-1092 b"
+  },
+  {
+    "kepler_name": "Kepler-1093 b"
+  },
+  {
+    "kepler_name": "Kepler-1094 b"
+  },
+  {
+    "kepler_name": "Kepler-1095 b"
+  },
+  {
+    "kepler_name": "Kepler-1130 d"
+  },
+  {
+    "kepler_name": "Kepler-1131 b"
+  },
+  {
+    "kepler_name": "Kepler-1801 b"
+  },
+  {
+    "kepler_name": "Kepler-1276 b"
+  },
+  {
+    "kepler_name": "Kepler-1277 b"
+  },
+  {
+    "kepler_name": "Kepler-2000 c"
+  },
+  {
+    "kepler_name": "Kepler-1299 b"
+  },
+  {
+    "kepler_name": "Kepler-1300 b"
+  },
+  {
+    "kepler_name": "Kepler-1864 b"
+  },
+  {
+    "kepler_name": "Kepler-1228 b"
+  },
+  {
+    "kepler_name": "Kepler-25 c"
+  },
+  {
+    "kepler_name": "Kepler-1835 b"
+  },
+  {
+    "kepler_name": "Kepler-383 b"
+  },
+  {
+    "kepler_name": "Kepler-1253 b"
+  },
+  {
+    "kepler_name": "Kepler-1254 b"
+  },
+  {
+    "kepler_name": "Kepler-1255 b"
+  },
+  {
+    "kepler_name": "Kepler-26 c"
+  },
+  {
+    "kepler_name": "Kepler-1686 b"
+  },
+  {
+    "kepler_name": "Kepler-1278 b"
+  },
+  {
+    "kepler_name": "Kepler-1865 b"
+  },
+  {
+    "kepler_name": "Kepler-383 c"
+  },
+  {
+    "kepler_name": "Kepler-384 b"
+  },
+  {
+    "kepler_name": "Kepler-384 c"
+  },
+  {
+    "kepler_name": "Kepler-1836 b"
+  },
+  {
+    "kepler_name": "Kepler-1837 b"
+  },
+  {
+    "kepler_name": "Kepler-1712 b"
+  },
+  {
+    "kepler_name": "Kepler-1256 b"
+  },
+  {
+    "kepler_name": "Kepler-1844 b"
+  },
+  {
+    "kepler_name": "Kepler-1845 b"
+  },
+  {
+    "kepler_name": "Kepler-1257 b"
+  },
+  {
+    "kepler_name": "Kepler-1279 b"
+  },
+  {
+    "kepler_name": "Kepler-1280 b"
+  },
+  {
+    "kepler_name": "Kepler-45 b"
+  },
+  {
+    "kepler_name": "Kepler-1301 b"
+  },
+  {
+    "kepler_name": "Kepler-1684 b"
+  },
+  {
+    "kepler_name": "Kepler-25 b"
+  },
+  {
+    "kepler_name": "Kepler-1229 b"
+  },
+  {
+    "kepler_name": "Kepler-1230 b"
+  },
+  {
+    "kepler_name": "Kepler-1231 b"
+  },
+  {
+    "kepler_name": "Kepler-1258 b"
+  },
+  {
+    "kepler_name": "Kepler-1259 b"
+  },
+  {
+    "kepler_name": "Kepler-1260 b"
+  },
+  {
+    "kepler_name": "Kepler-26 d"
+  },
+  {
+    "kepler_name": "Kepler-1302 b"
+  },
+  {
+    "kepler_name": "Kepler-1303 b"
+  },
+  {
+    "kepler_name": "Kepler-395 c"
+  },
+  {
+    "kepler_name": "Kepler-395 b"
+  },
+  {
+    "kepler_name": "Kepler-1232 b"
+  },
+  {
+    "kepler_name": "Kepler-1233 b"
+  },
+  {
+    "kepler_name": "Kepler-1234 b"
+  },
+  {
+    "kepler_name": "Kepler-1261 b"
+  },
+  {
+    "kepler_name": "Kepler-49 b"
+  },
+  {
+    "kepler_name": "Kepler-390 b"
+  },
+  {
+    "kepler_name": "Kepler-505 b"
+  },
+  {
+    "kepler_name": "Kepler-1304 b"
+  },
+  {
+    "kepler_name": "Kepler-1305 b"
+  },
+  {
+    "kepler_name": "Kepler-1306 b"
+  },
+  {
+    "kepler_name": "Kepler-1235 b"
+  },
+  {
+    "kepler_name": "Kepler-37 d"
+  },
+  {
+    "kepler_name": "Kepler-1846 b"
+  },
+  {
+    "kepler_name": "Kepler-1685 b"
+  },
+  {
+    "kepler_name": "Kepler-1262 b"
+  },
+  {
+    "kepler_name": "Kepler-1847 b"
+  },
+  {
+    "kepler_name": "Kepler-1859 b"
+  },
+  {
+    "kepler_name": "Kepler-1281 b"
+  },
+  {
+    "kepler_name": "Kepler-26 e"
+  },
+  {
+    "kepler_name": "Kepler-1860 b"
+  },
+  {
+    "kepler_name": "Kepler-1861 b"
+  },
+  {
+    "kepler_name": "Kepler-1310 b"
+  },
+  {
+    "kepler_name": "Kepler-396 c"
+  },
+  {
+    "kepler_name": "Kepler-1236 b"
+  },
+  {
+    "kepler_name": "Kepler-385 c"
+  },
+  {
+    "kepler_name": "Kepler-385 b"
+  },
+  {
+    "kepler_name": "Kepler-1263 b"
+  },
+  {
+    "kepler_name": "Kepler-49 c"
+  },
+  {
+    "kepler_name": "Kepler-1998 b"
+  },
+  {
+    "kepler_name": "Kepler-392 b"
+  },
+  {
+    "kepler_name": "Kepler-1282 b"
+  },
+  {
+    "kepler_name": "Kepler-1283 b"
+  },
+  {
+    "kepler_name": "Kepler-1687 b"
+  },
+  {
+    "kepler_name": "Kepler-1866 b"
+  },
+  {
+    "kepler_name": "Kepler-1307 b"
+  },
+  {
+    "kepler_name": "Kepler-1237 b"
+  },
+  {
+    "kepler_name": "Kepler-37 c"
+  },
+  {
+    "kepler_name": "Kepler-1238 b"
+  },
+  {
+    "kepler_name": "Kepler-2002 b"
+  },
+  {
+    "kepler_name": "Kepler-1264 b"
+  },
+  {
+    "kepler_name": "Kepler-1284 b"
+  },
+  {
+    "kepler_name": "Kepler-1658 b"
+  },
+  {
+    "kepler_name": "Kepler-125 b"
+  },
+  {
+    "kepler_name": "Kepler-1308 b"
+  },
+  {
+    "kepler_name": "Kepler-1309 b"
+  },
+  {
+    "kepler_name": "Kepler-1239 b"
+  },
+  {
+    "kepler_name": "Kepler-1240 b"
+  },
+  {
+    "kepler_name": "Kepler-386 c"
+  },
+  {
+    "kepler_name": "Kepler-1265 b"
+  },
+  {
+    "kepler_name": "Kepler-49 d"
+  },
+  {
+    "kepler_name": "Kepler-1266 b"
+  },
+  {
+    "kepler_name": "Kepler-1285 b"
+  },
+  {
+    "kepler_name": "Kepler-1286 b"
+  },
+  {
+    "kepler_name": "Kepler-393 b"
+  },
+  {
+    "kepler_name": "Kepler-393 c"
+  },
+  {
+    "kepler_name": "Kepler-396 b"
+  },
+  {
+    "kepler_name": "Kepler-506 b"
+  },
+  {
+    "kepler_name": "Kepler-1311 d"
+  },
+  {
+    "kepler_name": "Kepler-1311 b"
+  },
+  {
+    "kepler_name": "Kepler-1311 c"
+  },
+  {
+    "kepler_name": "Kepler-387 b"
+  },
+  {
+    "kepler_name": "Kepler-387 c"
+  },
+  {
+    "kepler_name": "Kepler-1241 b"
+  },
+  {
+    "kepler_name": "Kepler-37 b"
+  },
+  {
+    "kepler_name": "Kepler-1266 c"
+  },
+  {
+    "kepler_name": "Kepler-1848 b"
+  },
+  {
+    "kepler_name": "Kepler-1267 b"
+  },
+  {
+    "kepler_name": "Kepler-1268 b"
+  },
+  {
+    "kepler_name": "Kepler-1849 b"
+  },
+  {
+    "kepler_name": "Kepler-394 b"
+  },
+  {
+    "kepler_name": "Kepler-394 c"
+  },
+  {
+    "kepler_name": "Kepler-394 d"
+  },
+  {
+    "kepler_name": "Kepler-1214 b"
+  },
+  {
+    "kepler_name": "Kepler-124 b"
+  },
+  {
+    "kepler_name": "Kepler-1215 b"
+  },
+  {
+    "kepler_name": "Kepler-1242 b"
+  },
+  {
+    "kepler_name": "Kepler-1243 b"
+  },
+  {
+    "kepler_name": "Kepler-1850 b"
+  },
+  {
+    "kepler_name": "Kepler-1851 b"
+  },
+  {
+    "kepler_name": "Kepler-436 c"
+  },
+  {
+    "kepler_name": "Kepler-49 e"
+  },
+  {
+    "kepler_name": "Kepler-125 c"
+  },
+  {
+    "kepler_name": "Kepler-1287 b"
+  },
+  {
+    "kepler_name": "Kepler-1216 b"
+  },
+  {
+    "kepler_name": "Kepler-37 e"
+  },
+  {
+    "kepler_name": "Kepler-1244 b"
+  },
+  {
+    "kepler_name": "Kepler-1269 b"
+  },
+  {
+    "kepler_name": "Kepler-1852 b"
+  },
+  {
+    "kepler_name": "Kepler-1270 b"
+  },
+  {
+    "kepler_name": "Kepler-1271 b"
+  },
+  {
+    "kepler_name": "Kepler-1288 b"
+  },
+  {
+    "kepler_name": "Kepler-1217 b"
+  },
+  {
+    "kepler_name": "Kepler-1245 b"
+  },
+  {
+    "kepler_name": "Kepler-1246 b"
+  },
+  {
+    "kepler_name": "Kepler-1247 b"
+  },
+  {
+    "kepler_name": "Kepler-1838 b"
+  },
+  {
+    "kepler_name": "Kepler-1248 b"
+  },
+  {
+    "kepler_name": "Kepler-1853 b"
+  },
+  {
+    "kepler_name": "Kepler-1272 b"
+  },
+  {
+    "kepler_name": "Kepler-1854 b"
+  },
+  {
+    "kepler_name": "Kepler-504 b"
+  },
+  {
+    "kepler_name": "Kepler-1663 b"
+  },
+  {
+    "kepler_name": "Kepler-1290 b"
+  },
+  {
+    "kepler_name": "Kepler-503 b"
+  },
+  {
+    "kepler_name": "Kepler-1218 b"
+  },
+  {
+    "kepler_name": "Kepler-1219 b"
+  },
+  {
+    "kepler_name": "Kepler-1220 b"
+  },
+  {
+    "kepler_name": "Kepler-388 b"
+  },
+  {
+    "kepler_name": "Kepler-388 c"
+  },
+  {
+    "kepler_name": "Kepler-68 b"
+  },
+  {
+    "kepler_name": "Kepler-391 b"
+  },
+  {
+    "kepler_name": "Kepler-1855 b"
+  },
+  {
+    "kepler_name": "Kepler-1856 b"
+  },
+  {
+    "kepler_name": "Kepler-1291 b"
+  },
+  {
+    "kepler_name": "Kepler-1292 b"
+  },
+  {
+    "kepler_name": "Kepler-1862 b"
+  },
+  {
+    "kepler_name": "Kepler-1834 b"
+  },
+  {
+    "kepler_name": "Kepler-1221 b"
+  },
+  {
+    "kepler_name": "Kepler-1222 b"
+  },
+  {
+    "kepler_name": "Kepler-1839 b"
+  },
+  {
+    "kepler_name": "Kepler-1249 b"
+  },
+  {
+    "kepler_name": "Kepler-1840 b"
+  },
+  {
+    "kepler_name": "Kepler-1841 b"
+  },
+  {
+    "kepler_name": "Kepler-1273 b"
+  },
+  {
+    "kepler_name": "Kepler-1274 b"
+  },
+  {
+    "kepler_name": "Kepler-1857 b"
+  },
+  {
+    "kepler_name": "Kepler-26 b"
+  },
+  {
+    "kepler_name": "Kepler-2000 b"
+  },
+  {
+    "kepler_name": "Kepler-1293 b"
+  },
+  {
+    "kepler_name": "Kepler-1294 b"
+  },
+  {
+    "kepler_name": "Kepler-1295 b"
+  },
+  {
+    "kepler_name": "Kepler-1652 b"
+  },
+  {
+    "kepler_name": "Kepler-1223 b"
+  },
+  {
+    "kepler_name": "Kepler-1224 b"
+  },
+  {
+    "kepler_name": "Kepler-1250 b"
+  },
+  {
+    "kepler_name": "Kepler-389 b"
+  },
+  {
+    "kepler_name": "Kepler-68 c"
+  },
+  {
+    "kepler_name": "Kepler-1275 b"
+  },
+  {
+    "kepler_name": "Kepler-1858 b"
+  },
+  {
+    "kepler_name": "Kepler-1296 b"
+  },
+  {
+    "kepler_name": "Kepler-1297 b"
+  },
+  {
+    "kepler_name": "Kepler-1863 b"
+  },
+  {
+    "kepler_name": "Kepler-1298 b"
+  },
+  {
+    "kepler_name": "Kepler-1225 b"
+  },
+  {
+    "kepler_name": "Kepler-1226 b"
+  },
+  {
+    "kepler_name": "Kepler-1227 b"
+  },
+  {
+    "kepler_name": "Kepler-1842 b"
+  },
+  {
+    "kepler_name": "Kepler-1843 b"
+  },
+  {
+    "kepler_name": "Kepler-1251 b"
+  },
+  {
+    "kepler_name": "Kepler-1252 b"
+  },
+  {
+    "kepler_name": "Kepler-1881 b"
+  },
+  {
+    "kepler_name": "Kepler-446 b"
+  },
+  {
+    "kepler_name": "Kepler-446 d"
+  },
+  {
+    "kepler_name": "Kepler-1885 b"
+  },
+  {
+    "kepler_name": "Kepler-1386 b"
+  },
+  {
+    "kepler_name": "Kepler-509 b"
+  },
+  {
+    "kepler_name": "Kepler-1318 b"
+  },
+  {
+    "kepler_name": "Kepler-126 d"
+  },
+  {
+    "kepler_name": "Kepler-445 c"
+  },
+  {
+    "kepler_name": "Kepler-445 b"
+  },
+  {
+    "kepler_name": "Kepler-1319 b"
+  },
+  {
+    "kepler_name": "Kepler-1367 b"
+  },
+  {
+    "kepler_name": "Kepler-1882 b"
+  },
+  {
+    "kepler_name": "Kepler-127 b"
+  },
+  {
+    "kepler_name": "Kepler-1692 b"
+  },
+  {
+    "kepler_name": "Kepler-1387 b"
+  },
+  {
+    "kepler_name": "Kepler-1388 b"
+  },
+  {
+    "kepler_name": "Kepler-1388 c"
+  },
+  {
+    "kepler_name": "Kepler-399 d"
+  },
+  {
+    "kepler_name": "Kepler-399 b"
+  },
+  {
+    "kepler_name": "Kepler-399 c"
+  },
+  {
+    "kepler_name": "Kepler-1320 b"
+  },
+  {
+    "kepler_name": "Kepler-404 b"
+  },
+  {
+    "kepler_name": "Kepler-404 c"
+  },
+  {
+    "kepler_name": "Kepler-100 b"
+  },
+  {
+    "kepler_name": "Kepler-1985 b"
+  },
+  {
+    "kepler_name": "Kepler-1368 b"
+  },
+  {
+    "kepler_name": "Kepler-36 c"
+  },
+  {
+    "kepler_name": "Kepler-126 c"
+  },
+  {
+    "kepler_name": "Kepler-400 b"
+  },
+  {
+    "kepler_name": "Kepler-400 c"
+  },
+  {
+    "kepler_name": "Kepler-1369 b"
+  },
+  {
+    "kepler_name": "Kepler-1370 b"
+  },
+  {
+    "kepler_name": "Kepler-1370 c"
+  },
+  {
+    "kepler_name": "Kepler-1389 b"
+  },
+  {
+    "kepler_name": "Kepler-1390 b"
+  },
+  {
+    "kepler_name": "Kepler-401 b"
+  },
+  {
+    "kepler_name": "Kepler-401 c"
+  },
+  {
+    "kepler_name": "Kepler-1321 b"
+  },
+  {
+    "kepler_name": "Kepler-1342 b"
+  },
+  {
+    "kepler_name": "Kepler-1875 b"
+  },
+  {
+    "kepler_name": "Kepler-1343 b"
+  },
+  {
+    "kepler_name": "Kepler-1371 b"
+  },
+  {
+    "kepler_name": "Kepler-1371 c"
+  },
+  {
+    "kepler_name": "Kepler-1392 b"
+  },
+  {
+    "kepler_name": "Kepler-1888 b"
+  },
+  {
+    "kepler_name": "Kepler-1393 b"
+  },
+  {
+    "kepler_name": "Kepler-1321 c"
+  },
+  {
+    "kepler_name": "Kepler-1321 d"
+  },
+  {
+    "kepler_name": "Kepler-1322 b"
+  },
+  {
+    "kepler_name": "Kepler-96 b"
+  },
+  {
+    "kepler_name": "Kepler-1322 c"
+  },
+  {
+    "kepler_name": "Kepler-1344 b"
+  },
+  {
+    "kepler_name": "Kepler-1345 b"
+  },
+  {
+    "kepler_name": "Kepler-1346 b"
+  },
+  {
+    "kepler_name": "Kepler-1347 b"
+  },
+  {
+    "kepler_name": "Kepler-1372 b"
+  },
+  {
+    "kepler_name": "Kepler-1373 b"
+  },
+  {
+    "kepler_name": "Kepler-454 b"
+  },
+  {
+    "kepler_name": "Kepler-1395 b"
+  },
+  {
+    "kepler_name": "Kepler-1396 b"
+  },
+  {
+    "kepler_name": "Kepler-1397 b"
+  },
+  {
+    "kepler_name": "Kepler-1323 b"
+  },
+  {
+    "kepler_name": "Kepler-1324 b"
+  },
+  {
+    "kepler_name": "Kepler-1325 b"
+  },
+  {
+    "kepler_name": "Kepler-1348 b"
+  },
+  {
+    "kepler_name": "Kepler-1349 b"
+  },
+  {
+    "kepler_name": "Kepler-1374 b"
+  },
+  {
+    "kepler_name": "Kepler-1375 b"
+  },
+  {
+    "kepler_name": "Kepler-1886 b"
+  },
+  {
+    "kepler_name": "Kepler-1391 b"
+  },
+  {
+    "kepler_name": "Kepler-1887 b"
+  },
+  {
+    "kepler_name": "Kepler-36 b"
+  },
+  {
+    "kepler_name": "Kepler-402 c"
+  },
+  {
+    "kepler_name": "Kepler-402 e"
+  },
+  {
+    "kepler_name": "Kepler-402 b"
+  },
+  {
+    "kepler_name": "Kepler-402 d"
+  },
+  {
+    "kepler_name": "Kepler-50 b"
+  },
+  {
+    "kepler_name": "Kepler-1713 b"
+  },
+  {
+    "kepler_name": "Kepler-1351 b"
+  },
+  {
+    "kepler_name": "Kepler-1876 b"
+  },
+  {
+    "kepler_name": "Kepler-1693 b"
+  },
+  {
+    "kepler_name": "Kepler-1693 c"
+  },
+  {
+    "kepler_name": "Kepler-1394 b"
+  },
+  {
+    "kepler_name": "Kepler-450 b"
+  },
+  {
+    "kepler_name": "Kepler-1871 b"
+  },
+  {
+    "kepler_name": "Kepler-1691 b"
+  },
+  {
+    "kepler_name": "Kepler-1877 b"
+  },
+  {
+    "kepler_name": "Kepler-1352 b"
+  },
+  {
+    "kepler_name": "Kepler-100 d"
+  },
+  {
+    "kepler_name": "Kepler-128 b"
+  },
+  {
+    "kepler_name": "Kepler-1376 b"
+  },
+  {
+    "kepler_name": "Kepler-1694 b"
+  },
+  {
+    "kepler_name": "Kepler-1377 b"
+  },
+  {
+    "kepler_name": "Kepler-1889 b"
+  },
+  {
+    "kepler_name": "Kepler-1327 b"
+  },
+  {
+    "kepler_name": "Kepler-1328 b"
+  },
+  {
+    "kepler_name": "Kepler-403 b"
+  },
+  {
+    "kepler_name": "Kepler-403 c"
+  },
+  {
+    "kepler_name": "Kepler-449 b"
+  },
+  {
+    "kepler_name": "Kepler-1378 b"
+  },
+  {
+    "kepler_name": "Kepler-1379 b"
+  },
+  {
+    "kepler_name": "Kepler-1312 b"
+  },
+  {
+    "kepler_name": "Kepler-1312 c"
+  },
+  {
+    "kepler_name": "Kepler-1313 b"
+  },
+  {
+    "kepler_name": "Kepler-50 c"
+  },
+  {
+    "kepler_name": "Kepler-1688 b"
+  },
+  {
+    "kepler_name": "Kepler-1872 b"
+  },
+  {
+    "kepler_name": "Kepler-1873 b"
+  },
+  {
+    "kepler_name": "Kepler-1329 b"
+  },
+  {
+    "kepler_name": "Kepler-1354 b"
+  },
+  {
+    "kepler_name": "Kepler-1355 b"
+  },
+  {
+    "kepler_name": "Kepler-1356 b"
+  },
+  {
+    "kepler_name": "Kepler-128 c"
+  },
+  {
+    "kepler_name": "Kepler-1884 b"
+  },
+  {
+    "kepler_name": "Kepler-397 c"
+  },
+  {
+    "kepler_name": "Kepler-397 b"
+  },
+  {
+    "kepler_name": "Kepler-1330 b"
+  },
+  {
+    "kepler_name": "Kepler-449 c"
+  },
+  {
+    "kepler_name": "Kepler-1357 b"
+  },
+  {
+    "kepler_name": "Kepler-1878 b"
+  },
+  {
+    "kepler_name": "Kepler-1380 b"
+  },
+  {
+    "kepler_name": "Kepler-1868 b"
+  },
+  {
+    "kepler_name": "Kepler-1869 c"
+  },
+  {
+    "kepler_name": "Kepler-1332 b"
+  },
+  {
+    "kepler_name": "Kepler-1333 b"
+  },
+  {
+    "kepler_name": "Kepler-1334 b"
+  },
+  {
+    "kepler_name": "Kepler-1358 b"
+  },
+  {
+    "kepler_name": "Kepler-1381 b"
+  },
+  {
+    "kepler_name": "Kepler-129 b"
+  },
+  {
+    "kepler_name": "Kepler-1869 b"
+  },
+  {
+    "kepler_name": "Kepler-100 c"
+  },
+  {
+    "kepler_name": "Kepler-1314 b"
+  },
+  {
+    "kepler_name": "Kepler-1870 b"
+  },
+  {
+    "kepler_name": "Kepler-1335 b"
+  },
+  {
+    "kepler_name": "Kepler-1336 b"
+  },
+  {
+    "kepler_name": "Kepler-1336 c"
+  },
+  {
+    "kepler_name": "Kepler-1359 b"
+  },
+  {
+    "kepler_name": "Kepler-1879 b"
+  },
+  {
+    "kepler_name": "Kepler-127 d"
+  },
+  {
+    "kepler_name": "Kepler-1360 b"
+  },
+  {
+    "kepler_name": "Kepler-1382 b"
+  },
+  {
+    "kepler_name": "Kepler-1383 b"
+  },
+  {
+    "kepler_name": "Kepler-398 b"
+  },
+  {
+    "kepler_name": "Kepler-398 c"
+  },
+  {
+    "kepler_name": "Kepler-398 d"
+  },
+  {
+    "kepler_name": "Kepler-1337 b"
+  },
+  {
+    "kepler_name": "Kepler-1338 b"
+  },
+  {
+    "kepler_name": "Kepler-1361 b"
+  },
+  {
+    "kepler_name": "Kepler-1362 b"
+  },
+  {
+    "kepler_name": "Kepler-1880 b"
+  },
+  {
+    "kepler_name": "Kepler-1363 b"
+  },
+  {
+    "kepler_name": "Kepler-129 c"
+  },
+  {
+    "kepler_name": "Kepler-1384 b"
+  },
+  {
+    "kepler_name": "Kepler-1315 b"
+  },
+  {
+    "kepler_name": "Kepler-1315 c"
+  },
+  {
+    "kepler_name": "Kepler-126 b"
+  },
+  {
+    "kepler_name": "Kepler-1339 b"
+  },
+  {
+    "kepler_name": "Kepler-1689 b"
+  },
+  {
+    "kepler_name": "Kepler-1340 b"
+  },
+  {
+    "kepler_name": "Kepler-1690 b"
+  },
+  {
+    "kepler_name": "Kepler-1364 b"
+  },
+  {
+    "kepler_name": "Kepler-1365 b"
+  },
+  {
+    "kepler_name": "Kepler-1365 c"
+  },
+  {
+    "kepler_name": "Kepler-127 c"
+  },
+  {
+    "kepler_name": "Kepler-1366 b"
+  },
+  {
+    "kepler_name": "Kepler-1385 b"
+  },
+  {
+    "kepler_name": "Kepler-1316 b"
+  },
+  {
+    "kepler_name": "Kepler-1317 b"
+  },
+  {
+    "kepler_name": "Kepler-1874 b"
+  },
+  {
+    "kepler_name": "Kepler-507 b"
+  },
+  {
+    "kepler_name": "Kepler-1341 b"
+  },
+  {
+    "kepler_name": "Kepler-135 b"
+  },
+  {
+    "kepler_name": "Kepler-135 c"
+  },
+  {
+    "kepler_name": "Kepler-516 b"
+  },
+  {
+    "kepler_name": "Kepler-517 b"
+  },
+  {
+    "kepler_name": "Kepler-518 b"
+  },
+  {
+    "kepler_name": "Kepler-537 b"
+  },
+  {
+    "kepler_name": "Kepler-1408 b"
+  },
+  {
+    "kepler_name": "Kepler-1410 b"
+  },
+  {
+    "kepler_name": "Kepler-1901 b"
+  },
+  {
+    "kepler_name": "Kepler-92 b"
+  },
+  {
+    "kepler_name": "Kepler-99 b"
+  },
+  {
+    "kepler_name": "Kepler-519 b"
+  },
+  {
+    "kepler_name": "Kepler-520 b"
+  },
+  {
+    "kepler_name": "Kepler-101 b"
+  },
+  {
+    "kepler_name": "Kepler-538 b"
+  },
+  {
+    "kepler_name": "Kepler-1656 b"
+  },
+  {
+    "kepler_name": "Kepler-144 b"
+  },
+  {
+    "kepler_name": "Kepler-1411 b"
+  },
+  {
+    "kepler_name": "Kepler-1412 b"
+  },
+  {
+    "kepler_name": "Kepler-130 b"
+  },
+  {
+    "kepler_name": "Kepler-1902 b"
+  },
+  {
+    "kepler_name": "Kepler-1903 b"
+  },
+  {
+    "kepler_name": "Kepler-1424 b"
+  },
+  {
+    "kepler_name": "Kepler-1905 b"
+  },
+  {
+    "kepler_name": "Kepler-520 c"
+  },
+  {
+    "kepler_name": "Kepler-1715 b"
+  },
+  {
+    "kepler_name": "Kepler-136 b"
+  },
+  {
+    "kepler_name": "Kepler-144 c"
+  },
+  {
+    "kepler_name": "Kepler-145 c"
+  },
+  {
+    "kepler_name": "Kepler-63 b"
+  },
+  {
+    "kepler_name": "Kepler-145 b"
+  },
+  {
+    "kepler_name": "Kepler-539 b"
+  },
+  {
+    "kepler_name": "Kepler-1893 b"
+  },
+  {
+    "kepler_name": "Kepler-1894 b"
+  },
+  {
+    "kepler_name": "Kepler-431 d"
+  },
+  {
+    "kepler_name": "Kepler-431 b"
+  },
+  {
+    "kepler_name": "Kepler-431 c"
+  },
+  {
+    "kepler_name": "Kepler-92 c"
+  },
+  {
+    "kepler_name": "Kepler-136 c"
+  },
+  {
+    "kepler_name": "Kepler-137 c"
+  },
+  {
+    "kepler_name": "Kepler-137 b"
+  },
+  {
+    "kepler_name": "Kepler-138 c"
+  },
+  {
+    "kepler_name": "Kepler-138 d"
+  },
+  {
+    "kepler_name": "Kepler-101 c"
+  },
+  {
+    "kepler_name": "Kepler-1718 b"
+  },
+  {
+    "kepler_name": "Kepler-540 b"
+  },
+  {
+    "kepler_name": "Kepler-1704 b"
+  },
+  {
+    "kepler_name": "Kepler-9 b"
+  },
+  {
+    "kepler_name": "Kepler-1894 c"
+  },
+  {
+    "kepler_name": "Kepler-1413 b"
+  },
+  {
+    "kepler_name": "Kepler-1414 b"
+  },
+  {
+    "kepler_name": "Kepler-130 d"
+  },
+  {
+    "kepler_name": "Kepler-1426 b"
+  },
+  {
+    "kepler_name": "Kepler-1427 b"
+  },
+  {
+    "kepler_name": "Kepler-138 b"
+  },
+  {
+    "kepler_name": "Kepler-1716 b"
+  },
+  {
+    "kepler_name": "Kepler-139 b"
+  },
+  {
+    "kepler_name": "Kepler-139 c"
+  },
+  {
+    "kepler_name": "Kepler-139 d"
+  },
+  {
+    "kepler_name": "Kepler-9 c"
+  },
+  {
+    "kepler_name": "Kepler-9 d"
+  },
+  {
+    "kepler_name": "Kepler-1895 b"
+  },
+  {
+    "kepler_name": "Kepler-1906 b"
+  },
+  {
+    "kepler_name": "Kepler-1428 b"
+  },
+  {
+    "kepler_name": "Kepler-1429 b"
+  },
+  {
+    "kepler_name": "Kepler-92 d"
+  },
+  {
+    "kepler_name": "Kepler-521 b"
+  },
+  {
+    "kepler_name": "Kepler-522 b"
+  },
+  {
+    "kepler_name": "Kepler-406 b"
+  },
+  {
+    "kepler_name": "Kepler-147 c"
+  },
+  {
+    "kepler_name": "Kepler-147 b"
+  },
+  {
+    "kepler_name": "Kepler-1415 b"
+  },
+  {
+    "kepler_name": "Kepler-1430 b"
+  },
+  {
+    "kepler_name": "Kepler-1431 b"
+  },
+  {
+    "kepler_name": "Kepler-1432 b"
+  },
+  {
+    "kepler_name": "Kepler-406 c"
+  },
+  {
+    "kepler_name": "Kepler-523 b"
+  },
+  {
+    "kepler_name": "Kepler-541 b"
+  },
+  {
+    "kepler_name": "Kepler-542 b"
+  },
+  {
+    "kepler_name": "Kepler-131 b"
+  },
+  {
+    "kepler_name": "Kepler-1416 b"
+  },
+  {
+    "kepler_name": "Kepler-1417 b"
+  },
+  {
+    "kepler_name": "Kepler-1433 b"
+  },
+  {
+    "kepler_name": "Kepler-1434 b"
+  },
+  {
+    "kepler_name": "Kepler-140 b"
+  },
+  {
+    "kepler_name": "Kepler-140 c"
+  },
+  {
+    "kepler_name": "Kepler-146 b"
+  },
+  {
+    "kepler_name": "Kepler-146 c"
+  },
+  {
+    "kepler_name": "Kepler-543 b"
+  },
+  {
+    "kepler_name": "Kepler-1719 b"
+  },
+  {
+    "kepler_name": "Kepler-1896 b"
+  },
+  {
+    "kepler_name": "Kepler-1435 b"
+  },
+  {
+    "kepler_name": "Kepler-1436 b"
+  },
+  {
+    "kepler_name": "Kepler-461 b"
+  },
+  {
+    "kepler_name": "Kepler-524 b"
+  },
+  {
+    "kepler_name": "Kepler-524 c"
+  },
+  {
+    "kepler_name": "Kepler-525 b"
+  },
+  {
+    "kepler_name": "Kepler-544 b"
+  },
+  {
+    "kepler_name": "Kepler-93 b"
+  },
+  {
+    "kepler_name": "Kepler-131 c"
+  },
+  {
+    "kepler_name": "Kepler-1695 b"
+  },
+  {
+    "kepler_name": "Kepler-1418 b"
+  },
+  {
+    "kepler_name": "Kepler-1907 c"
+  },
+  {
+    "kepler_name": "Kepler-1907 b"
+  },
+  {
+    "kepler_name": "Kepler-1437 b"
+  },
+  {
+    "kepler_name": "Kepler-526 b"
+  },
+  {
+    "kepler_name": "Kepler-527 b"
+  },
+  {
+    "kepler_name": "Kepler-450 c"
+  },
+  {
+    "kepler_name": "Kepler-1890 b"
+  },
+  {
+    "kepler_name": "Kepler-1992 b"
+  },
+  {
+    "kepler_name": "Kepler-1419 b"
+  },
+  {
+    "kepler_name": "Kepler-1420 b"
+  },
+  {
+    "kepler_name": "Kepler-1909 b"
+  },
+  {
+    "kepler_name": "Kepler-1910 b"
+  },
+  {
+    "kepler_name": "Kepler-1438 b"
+  },
+  {
+    "kepler_name": "Kepler-528 b"
+  },
+  {
+    "kepler_name": "Kepler-141 c"
+  },
+  {
+    "kepler_name": "Kepler-141 b"
+  },
+  {
+    "kepler_name": "Kepler-529 b"
+  },
+  {
+    "kepler_name": "Kepler-529 c"
+  },
+  {
+    "kepler_name": "Kepler-1398 b"
+  },
+  {
+    "kepler_name": "Kepler-1398 c"
+  },
+  {
+    "kepler_name": "Kepler-405 c"
+  },
+  {
+    "kepler_name": "Kepler-132 d"
+  },
+  {
+    "kepler_name": "Kepler-405 b"
+  },
+  {
+    "kepler_name": "Kepler-1439 b"
+  },
+  {
+    "kepler_name": "Kepler-1977 b"
+  },
+  {
+    "kepler_name": "Kepler-1440 b"
+  },
+  {
+    "kepler_name": "Kepler-414 c"
+  },
+  {
+    "kepler_name": "Kepler-414 b"
+  },
+  {
+    "kepler_name": "Kepler-142 c"
+  },
+  {
+    "kepler_name": "Kepler-142 b"
+  },
+  {
+    "kepler_name": "Kepler-1655 b"
+  },
+  {
+    "kepler_name": "Kepler-1399 b"
+  },
+  {
+    "kepler_name": "Kepler-1400 b"
+  },
+  {
+    "kepler_name": "Kepler-1891 b"
+  },
+  {
+    "kepler_name": "Kepler-1421 b"
+  },
+  {
+    "kepler_name": "Kepler-1983 b"
+  },
+  {
+    "kepler_name": "Kepler-1422 b"
+  },
+  {
+    "kepler_name": "Kepler-1441 b"
+  },
+  {
+    "kepler_name": "Kepler-1714 b"
+  },
+  {
+    "kepler_name": "Kepler-511 c"
+  },
+  {
+    "kepler_name": "Kepler-511 b"
+  },
+  {
+    "kepler_name": "Kepler-142 d"
+  },
+  {
+    "kepler_name": "Kepler-530 b"
+  },
+  {
+    "kepler_name": "Kepler-531 b"
+  },
+  {
+    "kepler_name": "Kepler-532 b"
+  },
+  {
+    "kepler_name": "Kepler-1892 b"
+  },
+  {
+    "kepler_name": "Kepler-1897 b"
+  },
+  {
+    "kepler_name": "Kepler-132 c"
+  },
+  {
+    "kepler_name": "Kepler-133 c"
+  },
+  {
+    "kepler_name": "Kepler-133 b"
+  },
+  {
+    "kepler_name": "Kepler-97 b"
+  },
+  {
+    "kepler_name": "Kepler-533 b"
+  },
+  {
+    "kepler_name": "Kepler-1664 b"
+  },
+  {
+    "kepler_name": "Kepler-90 h"
+  },
+  {
+    "kepler_name": "Kepler-1401 b"
+  },
+  {
+    "kepler_name": "Kepler-410 A b"
+  },
+  {
+    "kepler_name": "Kepler-510 b"
+  },
+  {
+    "kepler_name": "Kepler-1402 b"
+  },
+  {
+    "kepler_name": "Kepler-1423 b"
+  },
+  {
+    "kepler_name": "Kepler-512 b"
+  },
+  {
+    "kepler_name": "Kepler-134 b"
+  },
+  {
+    "kepler_name": "Kepler-134 c"
+  },
+  {
+    "kepler_name": "Kepler-513 b"
+  },
+  {
+    "kepler_name": "Kepler-90 g"
+  },
+  {
+    "kepler_name": "Kepler-90 d"
+  },
+  {
+    "kepler_name": "Kepler-143 c"
+  },
+  {
+    "kepler_name": "Kepler-1717 b"
+  },
+  {
+    "kepler_name": "Kepler-1403 b"
+  },
+  {
+    "kepler_name": "Kepler-1404 b"
+  },
+  {
+    "kepler_name": "Kepler-1405 b"
+  },
+  {
+    "kepler_name": "Kepler-1898 b"
+  },
+  {
+    "kepler_name": "Kepler-1900 b"
+  },
+  {
+    "kepler_name": "Kepler-132 b"
+  },
+  {
+    "kepler_name": "Kepler-514 b"
+  },
+  {
+    "kepler_name": "Kepler-515 b"
+  },
+  {
+    "kepler_name": "Kepler-98 b"
+  },
+  {
+    "kepler_name": "Kepler-534 b"
+  },
+  {
+    "kepler_name": "Kepler-534 c"
+  },
+  {
+    "kepler_name": "Kepler-535 b"
+  },
+  {
+    "kepler_name": "Kepler-536 b"
+  },
+  {
+    "kepler_name": "Kepler-1406 b"
+  },
+  {
+    "kepler_name": "Kepler-130 c"
+  },
+  {
+    "kepler_name": "Kepler-1407 b"
+  },
+  {
+    "kepler_name": "Kepler-176 d"
+  },
+  {
+    "kepler_name": "Kepler-1989 b"
+  },
+  {
+    "kepler_name": "Kepler-177 c"
+  },
+  {
+    "kepler_name": "Kepler-177 b"
+  },
+  {
+    "kepler_name": "Kepler-189 b"
+  },
+  {
+    "kepler_name": "Kepler-606 b"
+  },
+  {
+    "kepler_name": "Kepler-607 c"
+  },
+  {
+    "kepler_name": "Kepler-548 b"
+  },
+  {
+    "kepler_name": "Kepler-39 b"
+  },
+  {
+    "kepler_name": "Kepler-20 e"
+  },
+  {
+    "kepler_name": "Kepler-567 b"
+  },
+  {
+    "kepler_name": "Kepler-568 b"
+  },
+  {
+    "kepler_name": "Kepler-569 b"
+  },
+  {
+    "kepler_name": "Kepler-570 b"
+  },
+  {
+    "kepler_name": "Kepler-166 b"
+  },
+  {
+    "kepler_name": "Kepler-1721 b"
+  },
+  {
+    "kepler_name": "Kepler-65 c"
+  },
+  {
+    "kepler_name": "Kepler-586 b"
+  },
+  {
+    "kepler_name": "Kepler-608 b"
+  },
+  {
+    "kepler_name": "Kepler-190 b"
+  },
+  {
+    "kepler_name": "Kepler-190 c"
+  },
+  {
+    "kepler_name": "Kepler-609 b"
+  },
+  {
+    "kepler_name": "Kepler-610 b"
+  },
+  {
+    "kepler_name": "Kepler-549 d"
+  },
+  {
+    "kepler_name": "Kepler-549 b"
+  },
+  {
+    "kepler_name": "Kepler-549 c"
+  },
+  {
+    "kepler_name": "Kepler-166 d"
+  },
+  {
+    "kepler_name": "Kepler-166 c"
+  },
+  {
+    "kepler_name": "Kepler-571 b"
+  },
+  {
+    "kepler_name": "Kepler-178 b"
+  },
+  {
+    "kepler_name": "Kepler-178 d"
+  },
+  {
+    "kepler_name": "Kepler-178 c"
+  },
+  {
+    "kepler_name": "Kepler-587 b"
+  },
+  {
+    "kepler_name": "Kepler-1649 c"
+  },
+  {
+    "kepler_name": "Kepler-610 c"
+  },
+  {
+    "kepler_name": "Kepler-191 d"
+  },
+  {
+    "kepler_name": "Kepler-1709 b"
+  },
+  {
+    "kepler_name": "Kepler-191 c"
+  },
+  {
+    "kepler_name": "Kepler-191 b"
+  },
+  {
+    "kepler_name": "Kepler-40 b"
+  },
+  {
+    "kepler_name": "Kepler-550 b"
+  },
+  {
+    "kepler_name": "Kepler-551 b"
+  },
+  {
+    "kepler_name": "Kepler-153 b"
+  },
+  {
+    "kepler_name": "Kepler-20 f"
+  },
+  {
+    "kepler_name": "Kepler-572 b"
+  },
+  {
+    "kepler_name": "Kepler-573 b"
+  },
+  {
+    "kepler_name": "Kepler-574 b"
+  },
+  {
+    "kepler_name": "Kepler-575 b"
+  },
+  {
+    "kepler_name": "Kepler-588 b"
+  },
+  {
+    "kepler_name": "Kepler-589 b"
+  },
+  {
+    "kepler_name": "Kepler-65 b"
+  },
+  {
+    "kepler_name": "Kepler-589 c"
+  },
+  {
+    "kepler_name": "Kepler-179 c"
+  },
+  {
+    "kepler_name": "Kepler-611 b"
+  },
+  {
+    "kepler_name": "Kepler-192 b"
+  },
+  {
+    "kepler_name": "Kepler-192 c"
+  },
+  {
+    "kepler_name": "Kepler-192 d"
+  },
+  {
+    "kepler_name": "Kepler-612 b"
+  },
+  {
+    "kepler_name": "Kepler-153 c"
+  },
+  {
+    "kepler_name": "Kepler-552 b"
+  },
+  {
+    "kepler_name": "Kepler-553 b"
+  },
+  {
+    "kepler_name": "Kepler-553 c"
+  },
+  {
+    "kepler_name": "Kepler-167 b"
+  },
+  {
+    "kepler_name": "Kepler-102 e"
+  },
+  {
+    "kepler_name": "Kepler-167 e"
+  },
+  {
+    "kepler_name": "Kepler-179 b"
+  },
+  {
+    "kepler_name": "Kepler-590 b"
+  },
+  {
+    "kepler_name": "Kepler-591 b"
+  },
+  {
+    "kepler_name": "Kepler-592 b"
+  },
+  {
+    "kepler_name": "Kepler-593 b"
+  },
+  {
+    "kepler_name": "Kepler-613 b"
+  },
+  {
+    "kepler_name": "Kepler-614 b"
+  },
+  {
+    "kepler_name": "Kepler-615 b"
+  },
+  {
+    "kepler_name": "Kepler-89 d"
+  },
+  {
+    "kepler_name": "Kepler-193 b"
+  },
+  {
+    "kepler_name": "Kepler-154 d"
+  },
+  {
+    "kepler_name": "Kepler-155 b"
+  },
+  {
+    "kepler_name": "Kepler-10 b"
+  },
+  {
+    "kepler_name": "Kepler-167 c"
+  },
+  {
+    "kepler_name": "Kepler-167 d"
+  },
+  {
+    "kepler_name": "Kepler-576 b"
+  },
+  {
+    "kepler_name": "Kepler-577 b"
+  },
+  {
+    "kepler_name": "Kepler-594 b"
+  },
+  {
+    "kepler_name": "Kepler-4 b"
+  },
+  {
+    "kepler_name": "Kepler-65 d"
+  },
+  {
+    "kepler_name": "Kepler-180 c"
+  },
+  {
+    "kepler_name": "Kepler-180 b"
+  },
+  {
+    "kepler_name": "Kepler-194 d"
+  },
+  {
+    "kepler_name": "Kepler-195 b"
+  },
+  {
+    "kepler_name": "Kepler-195 c"
+  },
+  {
+    "kepler_name": "Kepler-1724 b"
+  },
+  {
+    "kepler_name": "Kepler-618 b"
+  },
+  {
+    "kepler_name": "Kepler-155 c"
+  },
+  {
+    "kepler_name": "Kepler-554 b"
+  },
+  {
+    "kepler_name": "Kepler-156 c"
+  },
+  {
+    "kepler_name": "Kepler-156 b"
+  },
+  {
+    "kepler_name": "Kepler-578 b"
+  },
+  {
+    "kepler_name": "Kepler-168 c"
+  },
+  {
+    "kepler_name": "Kepler-102 d"
+  },
+  {
+    "kepler_name": "Kepler-168 b"
+  },
+  {
+    "kepler_name": "Kepler-181 c"
+  },
+  {
+    "kepler_name": "Kepler-181 b"
+  },
+  {
+    "kepler_name": "Kepler-182 c"
+  },
+  {
+    "kepler_name": "Kepler-193 c"
+  },
+  {
+    "kepler_name": "Kepler-1723 b"
+  },
+  {
+    "kepler_name": "Kepler-616 b"
+  },
+  {
+    "kepler_name": "Kepler-616 c"
+  },
+  {
+    "kepler_name": "Kepler-157 c"
+  },
+  {
+    "kepler_name": "Kepler-157 b"
+  },
+  {
+    "kepler_name": "Kepler-157 d"
+  },
+  {
+    "kepler_name": "Kepler-555 b"
+  },
+  {
+    "kepler_name": "Kepler-556 b"
+  },
+  {
+    "kepler_name": "Kepler-579 b"
+  },
+  {
+    "kepler_name": "Kepler-80 b"
+  },
+  {
+    "kepler_name": "Kepler-80 c"
+  },
+  {
+    "kepler_name": "Kepler-80 d"
+  },
+  {
+    "kepler_name": "Kepler-80 e"
+  },
+  {
+    "kepler_name": "Kepler-182 b"
+  },
+  {
+    "kepler_name": "Kepler-595 b"
+  },
+  {
+    "kepler_name": "Kepler-596 b"
+  },
+  {
+    "kepler_name": "Kepler-22 b"
+  },
+  {
+    "kepler_name": "Kepler-616 d"
+  },
+  {
+    "kepler_name": "Kepler-617 b"
+  },
+  {
+    "kepler_name": "Kepler-194 c"
+  },
+  {
+    "kepler_name": "Kepler-89 c"
+  },
+  {
+    "kepler_name": "Kepler-194 b"
+  },
+  {
+    "kepler_name": "Kepler-10 c"
+  },
+  {
+    "kepler_name": "Kepler-158 b"
+  },
+  {
+    "kepler_name": "Kepler-158 c"
+  },
+  {
+    "kepler_name": "Kepler-159 b"
+  },
+  {
+    "kepler_name": "Kepler-159 c"
+  },
+  {
+    "kepler_name": "Kepler-80 f"
+  },
+  {
+    "kepler_name": "Kepler-102 f"
+  },
+  {
+    "kepler_name": "Kepler-580 b"
+  },
+  {
+    "kepler_name": "Kepler-597 b"
+  },
+  {
+    "kepler_name": "Kepler-183 c"
+  },
+  {
+    "kepler_name": "Kepler-183 b"
+  },
+  {
+    "kepler_name": "Kepler-619 b"
+  },
+  {
+    "kepler_name": "Kepler-619 d"
+  },
+  {
+    "kepler_name": "Kepler-619 c"
+  },
+  {
+    "kepler_name": "Kepler-730 c"
+  },
+  {
+    "kepler_name": "Kepler-620 b"
+  },
+  {
+    "kepler_name": "Kepler-89 e"
+  },
+  {
+    "kepler_name": "Kepler-557 b"
+  },
+  {
+    "kepler_name": "Kepler-581 b"
+  },
+  {
+    "kepler_name": "Kepler-169 e"
+  },
+  {
+    "kepler_name": "Kepler-169 c"
+  },
+  {
+    "kepler_name": "Kepler-169 b"
+  },
+  {
+    "kepler_name": "Kepler-169 d"
+  },
+  {
+    "kepler_name": "Kepler-598 b"
+  },
+  {
+    "kepler_name": "Kepler-598 c"
+  },
+  {
+    "kepler_name": "Kepler-148 d"
+  },
+  {
+    "kepler_name": "Kepler-148 c"
+  },
+  {
+    "kepler_name": "Kepler-148 b"
+  },
+  {
+    "kepler_name": "Kepler-558 b"
+  },
+  {
+    "kepler_name": "Kepler-160 c"
+  },
+  {
+    "kepler_name": "Kepler-160 b"
+  },
+  {
+    "kepler_name": "Kepler-161 b"
+  },
+  {
+    "kepler_name": "Kepler-169 f"
+  },
+  {
+    "kepler_name": "Kepler-582 b"
+  },
+  {
+    "kepler_name": "Kepler-170 b"
+  },
+  {
+    "kepler_name": "Kepler-102 c"
+  },
+  {
+    "kepler_name": "Kepler-599 b"
+  },
+  {
+    "kepler_name": "Kepler-1722 b"
+  },
+  {
+    "kepler_name": "Kepler-600 b"
+  },
+  {
+    "kepler_name": "Kepler-149 b"
+  },
+  {
+    "kepler_name": "Kepler-149 d"
+  },
+  {
+    "kepler_name": "Kepler-20 c"
+  },
+  {
+    "kepler_name": "Kepler-149 c"
+  },
+  {
+    "kepler_name": "Kepler-161 c"
+  },
+  {
+    "kepler_name": "Kepler-162 c"
+  },
+  {
+    "kepler_name": "Kepler-162 b"
+  },
+  {
+    "kepler_name": "Kepler-170 c"
+  },
+  {
+    "kepler_name": "Kepler-171 b"
+  },
+  {
+    "kepler_name": "Kepler-171 c"
+  },
+  {
+    "kepler_name": "Kepler-171 d"
+  },
+  {
+    "kepler_name": "Kepler-172 b"
+  },
+  {
+    "kepler_name": "Kepler-601 b"
+  },
+  {
+    "kepler_name": "Kepler-602 b"
+  },
+  {
+    "kepler_name": "Kepler-603 b"
+  },
+  {
+    "kepler_name": "Kepler-603 c"
+  },
+  {
+    "kepler_name": "Kepler-603 d"
+  },
+  {
+    "kepler_name": "Kepler-150 c"
+  },
+  {
+    "kepler_name": "Kepler-559 b"
+  },
+  {
+    "kepler_name": "Kepler-560 b"
+  },
+  {
+    "kepler_name": "Kepler-561 b"
+  },
+  {
+    "kepler_name": "Kepler-561 c"
+  },
+  {
+    "kepler_name": "Kepler-172 c"
+  },
+  {
+    "kepler_name": "Kepler-172 d"
+  },
+  {
+    "kepler_name": "Kepler-172 e"
+  },
+  {
+    "kepler_name": "Kepler-173 c"
+  },
+  {
+    "kepler_name": "Kepler-173 b"
+  },
+  {
+    "kepler_name": "Kepler-462 b"
+  },
+  {
+    "kepler_name": "Kepler-604 b"
+  },
+  {
+    "kepler_name": "Kepler-184 b"
+  },
+  {
+    "kepler_name": "Kepler-184 c"
+  },
+  {
+    "kepler_name": "Kepler-150 d"
+  },
+  {
+    "kepler_name": "Kepler-150 e"
+  },
+  {
+    "kepler_name": "Kepler-20 b"
+  },
+  {
+    "kepler_name": "Kepler-150 b"
+  },
+  {
+    "kepler_name": "Kepler-545 b"
+  },
+  {
+    "kepler_name": "Kepler-562 b"
+  },
+  {
+    "kepler_name": "Kepler-563 b"
+  },
+  {
+    "kepler_name": "Kepler-102 b"
+  },
+  {
+    "kepler_name": "Kepler-583 b"
+  },
+  {
+    "kepler_name": "Kepler-584 b"
+  },
+  {
+    "kepler_name": "Kepler-184 d"
+  },
+  {
+    "kepler_name": "Kepler-605 b"
+  },
+  {
+    "kepler_name": "Kepler-605 c"
+  },
+  {
+    "kepler_name": "Kepler-185 c"
+  },
+  {
+    "kepler_name": "Kepler-185 b"
+  },
+  {
+    "kepler_name": "Kepler-546 b"
+  },
+  {
+    "kepler_name": "Kepler-151 b"
+  },
+  {
+    "kepler_name": "Kepler-151 c"
+  },
+  {
+    "kepler_name": "Kepler-564 b"
+  },
+  {
+    "kepler_name": "Kepler-163 c"
+  },
+  {
+    "kepler_name": "Kepler-163 b"
+  },
+  {
+    "kepler_name": "Kepler-565 b"
+  },
+  {
+    "kepler_name": "Kepler-585 b"
+  },
+  {
+    "kepler_name": "Kepler-174 b"
+  },
+  {
+    "kepler_name": "Kepler-174 c"
+  },
+  {
+    "kepler_name": "Kepler-174 d"
+  },
+  {
+    "kepler_name": "Kepler-462 c"
+  },
+  {
+    "kepler_name": "Kepler-186 c"
+  },
+  {
+    "kepler_name": "Kepler-186 d"
+  },
+  {
+    "kepler_name": "Kepler-186 b"
+  },
+  {
+    "kepler_name": "Kepler-186 e"
+  },
+  {
+    "kepler_name": "Kepler-20 d"
+  },
+  {
+    "kepler_name": "Kepler-152 b"
+  },
+  {
+    "kepler_name": "Kepler-1720 b"
+  },
+  {
+    "kepler_name": "Kepler-164 c"
+  },
+  {
+    "kepler_name": "Kepler-164 d"
+  },
+  {
+    "kepler_name": "Kepler-164 e"
+  },
+  {
+    "kepler_name": "Kepler-164 b"
+  },
+  {
+    "kepler_name": "Kepler-175 b"
+  },
+  {
+    "kepler_name": "Kepler-19 b"
+  },
+  {
+    "kepler_name": "Kepler-175 c"
+  },
+  {
+    "kepler_name": "Kepler-176 c"
+  },
+  {
+    "kepler_name": "Kepler-176 b"
+  },
+  {
+    "kepler_name": "Kepler-187 c"
+  },
+  {
+    "kepler_name": "Kepler-187 b"
+  },
+  {
+    "kepler_name": "Kepler-188 c"
+  },
+  {
+    "kepler_name": "Kepler-188 b"
+  },
+  {
+    "kepler_name": "Kepler-189 c"
+  },
+  {
+    "kepler_name": "Kepler-152 c"
+  },
+  {
+    "kepler_name": "Kepler-547 b"
+  },
+  {
+    "kepler_name": "Kepler-165 b"
+  },
+  {
+    "kepler_name": "Kepler-165 c"
+  },
+  {
+    "kepler_name": "Kepler-566 b"
+  },
+  {
+    "kepler_name": "Kepler-223 d"
+  },
+  {
+    "kepler_name": "Kepler-625 c"
+  },
+  {
+    "kepler_name": "Kepler-626 b"
+  },
+  {
+    "kepler_name": "Kepler-627 b"
+  },
+  {
+    "kepler_name": "Kepler-628 b"
+  },
+  {
+    "kepler_name": "Kepler-644 b"
+  },
+  {
+    "kepler_name": "Kepler-223 c"
+  },
+  {
+    "kepler_name": "Kepler-223 e"
+  },
+  {
+    "kepler_name": "Kepler-104 d"
+  },
+  {
+    "kepler_name": "Kepler-223 b"
+  },
+  {
+    "kepler_name": "Kepler-629 b"
+  },
+  {
+    "kepler_name": "Kepler-630 b"
+  },
+  {
+    "kepler_name": "Kepler-1725 b"
+  },
+  {
+    "kepler_name": "Kepler-645 b"
+  },
+  {
+    "kepler_name": "Kepler-646 b"
+  },
+  {
+    "kepler_name": "Kepler-595 c"
+  },
+  {
+    "kepler_name": "Kepler-464 b"
+  },
+  {
+    "kepler_name": "Kepler-647 c"
+  },
+  {
+    "kepler_name": "Kepler-647 b"
+  },
+  {
+    "kepler_name": "Kepler-656 b"
+  },
+  {
+    "kepler_name": "Kepler-656 c"
+  },
+  {
+    "kepler_name": "Kepler-224 c"
+  },
+  {
+    "kepler_name": "Kepler-224 d"
+  },
+  {
+    "kepler_name": "Kepler-199 b"
+  },
+  {
+    "kepler_name": "Kepler-199 c"
+  },
+  {
+    "kepler_name": "Kepler-631 b"
+  },
+  {
+    "kepler_name": "Kepler-632 b"
+  },
+  {
+    "kepler_name": "Kepler-213 b"
+  },
+  {
+    "kepler_name": "Kepler-213 c"
+  },
+  {
+    "kepler_name": "Kepler-214 c"
+  },
+  {
+    "kepler_name": "Kepler-214 b"
+  },
+  {
+    "kepler_name": "Kepler-648 b"
+  },
+  {
+    "kepler_name": "Kepler-224 b"
+  },
+  {
+    "kepler_name": "Kepler-224 e"
+  },
+  {
+    "kepler_name": "Kepler-657 b"
+  },
+  {
+    "kepler_name": "Kepler-466 b"
+  },
+  {
+    "kepler_name": "Kepler-649 b"
+  },
+  {
+    "kepler_name": "Kepler-650 b"
+  },
+  {
+    "kepler_name": "Kepler-103 b"
+  },
+  {
+    "kepler_name": "Kepler-225 c"
+  },
+  {
+    "kepler_name": "Kepler-225 b"
+  },
+  {
+    "kepler_name": "Kepler-29 b"
+  },
+  {
+    "kepler_name": "Kepler-633 b"
+  },
+  {
+    "kepler_name": "Kepler-633 c"
+  },
+  {
+    "kepler_name": "Kepler-634 b"
+  },
+  {
+    "kepler_name": "Kepler-215 d"
+  },
+  {
+    "kepler_name": "Kepler-215 b"
+  },
+  {
+    "kepler_name": "Kepler-215 c"
+  },
+  {
+    "kepler_name": "Kepler-215 e"
+  },
+  {
+    "kepler_name": "Kepler-29 c"
+  },
+  {
+    "kepler_name": "Kepler-658 b"
+  },
+  {
+    "kepler_name": "Kepler-659 b"
+  },
+  {
+    "kepler_name": "Kepler-635 b"
+  },
+  {
+    "kepler_name": "Kepler-1990 b"
+  },
+  {
+    "kepler_name": "Kepler-1665 b"
+  },
+  {
+    "kepler_name": "Kepler-636 b"
+  },
+  {
+    "kepler_name": "Kepler-62 d"
+  },
+  {
+    "kepler_name": "Kepler-62 b"
+  },
+  {
+    "kepler_name": "Kepler-62 e"
+  },
+  {
+    "kepler_name": "Kepler-103 c"
+  },
+  {
+    "kepler_name": "Kepler-200 b"
+  },
+  {
+    "kepler_name": "Kepler-200 c"
+  },
+  {
+    "kepler_name": "Kepler-201 b"
+  },
+  {
+    "kepler_name": "Kepler-201 c"
+  },
+  {
+    "kepler_name": "Kepler-1726 b"
+  },
+  {
+    "kepler_name": "Kepler-33 d"
+  },
+  {
+    "kepler_name": "Kepler-33 f"
+  },
+  {
+    "kepler_name": "Kepler-202 b"
+  },
+  {
+    "kepler_name": "Kepler-1990 c"
+  },
+  {
+    "kepler_name": "Kepler-202 c"
+  },
+  {
+    "kepler_name": "Kepler-203 b"
+  },
+  {
+    "kepler_name": "Kepler-33 e"
+  },
+  {
+    "kepler_name": "Kepler-33 c"
+  },
+  {
+    "kepler_name": "Kepler-33 b"
+  },
+  {
+    "kepler_name": "Kepler-216 c"
+  },
+  {
+    "kepler_name": "Kepler-203 c"
+  },
+  {
+    "kepler_name": "Kepler-203 d"
+  },
+  {
+    "kepler_name": "Kepler-637 b"
+  },
+  {
+    "kepler_name": "Kepler-638 b"
+  },
+  {
+    "kepler_name": "Kepler-204 b"
+  },
+  {
+    "kepler_name": "Kepler-216 b"
+  },
+  {
+    "kepler_name": "Kepler-651 b"
+  },
+  {
+    "kepler_name": "Kepler-217 b"
+  },
+  {
+    "kepler_name": "Kepler-217 c"
+  },
+  {
+    "kepler_name": "Kepler-217 d"
+  },
+  {
+    "kepler_name": "Kepler-621 b"
+  },
+  {
+    "kepler_name": "Kepler-204 c"
+  },
+  {
+    "kepler_name": "Kepler-639 b"
+  },
+  {
+    "kepler_name": "Kepler-205 b"
+  },
+  {
+    "kepler_name": "Kepler-1710 b"
+  },
+  {
+    "kepler_name": "Kepler-205 c"
+  },
+  {
+    "kepler_name": "Kepler-218 c"
+  },
+  {
+    "kepler_name": "Kepler-218 b"
+  },
+  {
+    "kepler_name": "Kepler-218 d"
+  },
+  {
+    "kepler_name": "Kepler-622 b"
+  },
+  {
+    "kepler_name": "Kepler-89 b"
+  },
+  {
+    "kepler_name": "Kepler-206 c"
+  },
+  {
+    "kepler_name": "Kepler-206 b"
+  },
+  {
+    "kepler_name": "Kepler-206 d"
+  },
+  {
+    "kepler_name": "Kepler-207 d"
+  },
+  {
+    "kepler_name": "Kepler-207 b"
+  },
+  {
+    "kepler_name": "Kepler-465 b"
+  },
+  {
+    "kepler_name": "Kepler-652 b"
+  },
+  {
+    "kepler_name": "Kepler-653 b"
+  },
+  {
+    "kepler_name": "Kepler-196 b"
+  },
+  {
+    "kepler_name": "Kepler-196 c"
+  },
+  {
+    "kepler_name": "Kepler-434 b"
+  },
+  {
+    "kepler_name": "Kepler-207 c"
+  },
+  {
+    "kepler_name": "Kepler-640 b"
+  },
+  {
+    "kepler_name": "Kepler-94 b"
+  },
+  {
+    "kepler_name": "Kepler-653 c"
+  },
+  {
+    "kepler_name": "Kepler-219 b"
+  },
+  {
+    "kepler_name": "Kepler-219 c"
+  },
+  {
+    "kepler_name": "Kepler-219 d"
+  },
+  {
+    "kepler_name": "Kepler-220 c"
+  },
+  {
+    "kepler_name": "Kepler-623 b"
+  },
+  {
+    "kepler_name": "Kepler-51 b"
+  },
+  {
+    "kepler_name": "Kepler-641 b"
+  },
+  {
+    "kepler_name": "Kepler-208 b"
+  },
+  {
+    "kepler_name": "Kepler-208 c"
+  },
+  {
+    "kepler_name": "Kepler-208 e"
+  },
+  {
+    "kepler_name": "Kepler-208 d"
+  },
+  {
+    "kepler_name": "Kepler-220 d"
+  },
+  {
+    "kepler_name": "Kepler-104 b"
+  },
+  {
+    "kepler_name": "Kepler-220 e"
+  },
+  {
+    "kepler_name": "Kepler-220 b"
+  },
+  {
+    "kepler_name": "Kepler-221 c"
+  },
+  {
+    "kepler_name": "Kepler-7 b"
+  },
+  {
+    "kepler_name": "Kepler-51 d"
+  },
+  {
+    "kepler_name": "Kepler-51 c"
+  },
+  {
+    "kepler_name": "Kepler-197 c"
+  },
+  {
+    "kepler_name": "Kepler-209 b"
+  },
+  {
+    "kepler_name": "Kepler-209 c"
+  },
+  {
+    "kepler_name": "Kepler-642 b"
+  },
+  {
+    "kepler_name": "Kepler-463 b"
+  },
+  {
+    "kepler_name": "Kepler-643 b"
+  },
+  {
+    "kepler_name": "Kepler-221 d"
+  },
+  {
+    "kepler_name": "Kepler-221 e"
+  },
+  {
+    "kepler_name": "Kepler-221 b"
+  },
+  {
+    "kepler_name": "Kepler-654 b"
+  },
+  {
+    "kepler_name": "Kepler-655 b"
+  },
+  {
+    "kepler_name": "Kepler-197 d"
+  },
+  {
+    "kepler_name": "Kepler-197 b"
+  },
+  {
+    "kepler_name": "Kepler-197 e"
+  },
+  {
+    "kepler_name": "Kepler-198 b"
+  },
+  {
+    "kepler_name": "Kepler-198 c"
+  },
+  {
+    "kepler_name": "Kepler-14 b"
+  },
+  {
+    "kepler_name": "Kepler-210 c"
+  },
+  {
+    "kepler_name": "Kepler-210 b"
+  },
+  {
+    "kepler_name": "Kepler-211 c"
+  },
+  {
+    "kepler_name": "Kepler-211 b"
+  },
+  {
+    "kepler_name": "Kepler-222 b"
+  },
+  {
+    "kepler_name": "Kepler-222 d"
+  },
+  {
+    "kepler_name": "Kepler-104 c"
+  },
+  {
+    "kepler_name": "Kepler-222 c"
+  },
+  {
+    "kepler_name": "Kepler-198 d"
+  },
+  {
+    "kepler_name": "Kepler-624 b"
+  },
+  {
+    "kepler_name": "Kepler-625 b"
+  },
+  {
+    "kepler_name": "Kepler-212 c"
+  },
+  {
+    "kepler_name": "Kepler-212 b"
+  },
+  {
+    "kepler_name": "Kepler-435 b"
+  },
+  {
+    "kepler_name": "Kepler-1936 b"
+  },
+  {
+    "kepler_name": "Kepler-379 b"
+  },
+  {
+    "kepler_name": "Kepler-1937 b"
+  },
+  {
+    "kepler_name": "Kepler-1546 b"
+  },
+  {
+    "kepler_name": "Kepler-1938 b"
+  },
+  {
+    "kepler_name": "Kepler-1557 b"
+  },
+  {
+    "kepler_name": "Kepler-1547 b"
+  },
+  {
+    "kepler_name": "Kepler-1178 b"
+  },
+  {
+    "kepler_name": "Kepler-1558 b"
+  },
+  {
+    "kepler_name": "Kepler-1548 b"
+  },
+  {
+    "kepler_name": "Kepler-1941 b"
+  },
+  {
+    "kepler_name": "Kepler-1549 b"
+  },
+  {
+    "kepler_name": "Kepler-1943 b"
+  },
+  {
+    "kepler_name": "Kepler-1982 b"
+  },
+  {
+    "kepler_name": "Kepler-1154 c"
+  },
+  {
+    "kepler_name": "Kepler-440 b"
+  },
+  {
+    "kepler_name": "Kepler-1944 b"
+  },
+  {
+    "kepler_name": "Kepler-154 c"
+  },
+  {
+    "kepler_name": "Kepler-368 c"
+  },
+  {
+    "kepler_name": "Kepler-1550 b"
+  },
+  {
+    "kepler_name": "Kepler-1551 b"
+  },
+  {
+    "kepler_name": "Kepler-1942 b"
+  },
+  {
+    "kepler_name": "Kepler-1181 c"
+  },
+  {
+    "kepler_name": "Kepler-1541 b"
+  },
+  {
+    "kepler_name": "Kepler-1814 c"
+  },
+  {
+    "kepler_name": "Kepler-1939 b"
+  },
+  {
+    "kepler_name": "Kepler-1559 b"
+  },
+  {
+    "kepler_name": "Kepler-1560 b"
+  },
+  {
+    "kepler_name": "Kepler-1940 b"
+  },
+  {
+    "kepler_name": "Kepler-1561 b"
+  },
+  {
+    "kepler_name": "Kepler-1542 b"
+  },
+  {
+    "kepler_name": "Kepler-1542 c"
+  },
+  {
+    "kepler_name": "Kepler-1552 b"
+  },
+  {
+    "kepler_name": "Kepler-1162 c"
+  },
+  {
+    "kepler_name": "Kepler-1543 b"
+  },
+  {
+    "kepler_name": "Kepler-1544 b"
+  },
+  {
+    "kepler_name": "Kepler-371 c"
+  },
+  {
+    "kepler_name": "Kepler-372 d"
+  },
+  {
+    "kepler_name": "Kepler-154 f"
+  },
+  {
+    "kepler_name": "Kepler-1165 b"
+  },
+  {
+    "kepler_name": "Kepler-1553 b"
+  },
+  {
+    "kepler_name": "Kepler-1545 b"
+  },
+  {
+    "kepler_name": "Kepler-1554 b"
+  },
+  {
+    "kepler_name": "Kepler-1934 b"
+  },
+  {
+    "kepler_name": "Kepler-1701 b"
+  },
+  {
+    "kepler_name": "Kepler-1935 b"
+  },
+  {
+    "kepler_name": "Kepler-372 b"
+  },
+  {
+    "kepler_name": "Kepler-378 c"
+  },
+  {
+    "kepler_name": "Kepler-1555 b"
+  },
+  {
+    "kepler_name": "Kepler-1556 b"
+  },
+  {
+    "kepler_name": "Kepler-1952 b"
+  },
+  {
+    "kepler_name": "Kepler-1955 b"
+  },
+  {
+    "kepler_name": "Kepler-1602 b"
+  },
+  {
+    "kepler_name": "Kepler-1580 b"
+  },
+  {
+    "kepler_name": "Kepler-1592 b"
+  },
+  {
+    "kepler_name": "Kepler-1569 b"
+  },
+  {
+    "kepler_name": "Kepler-186 f"
+  },
+  {
+    "kepler_name": "Kepler-1570 b"
+  },
+  {
+    "kepler_name": "Kepler-1581 b"
+  },
+  {
+    "kepler_name": "Kepler-1593 b"
+  },
+  {
+    "kepler_name": "Kepler-1603 b"
+  },
+  {
+    "kepler_name": "Kepler-436 b"
+  },
+  {
+    "kepler_name": "Kepler-1582 b"
+  },
+  {
+    "kepler_name": "Kepler-1583 b"
+  },
+  {
+    "kepler_name": "Kepler-1594 b"
+  },
+  {
+    "kepler_name": "Kepler-1571 b"
+  },
+  {
+    "kepler_name": "Kepler-1584 b"
+  },
+  {
+    "kepler_name": "Kepler-1595 b"
+  },
+  {
+    "kepler_name": "Kepler-1604 b"
+  },
+  {
+    "kepler_name": "Kepler-1572 b"
+  },
+  {
+    "kepler_name": "Kepler-391 c"
+  },
+  {
+    "kepler_name": "Kepler-1585 b"
+  },
+  {
+    "kepler_name": "Kepler-1586 b"
+  },
+  {
+    "kepler_name": "Kepler-386 b"
+  },
+  {
+    "kepler_name": "Kepler-1573 b"
+  },
+  {
+    "kepler_name": "Kepler-1574 b"
+  },
+  {
+    "kepler_name": "Kepler-1587 b"
+  },
+  {
+    "kepler_name": "Kepler-1596 b"
+  },
+  {
+    "kepler_name": "Kepler-403 d"
+  },
+  {
+    "kepler_name": "Kepler-1953 b"
+  },
+  {
+    "kepler_name": "Kepler-196 d"
+  },
+  {
+    "kepler_name": "Kepler-1956 b"
+  },
+  {
+    "kepler_name": "Kepler-1605 b"
+  },
+  {
+    "kepler_name": "Kepler-1957 b"
+  },
+  {
+    "kepler_name": "Kepler-1575 b"
+  },
+  {
+    "kepler_name": "Kepler-1245 c"
+  },
+  {
+    "kepler_name": "Kepler-1950 b"
+  },
+  {
+    "kepler_name": "Kepler-1588 b"
+  },
+  {
+    "kepler_name": "Kepler-1597 b"
+  },
+  {
+    "kepler_name": "Kepler-1576 b"
+  },
+  {
+    "kepler_name": "Kepler-1598 b"
+  },
+  {
+    "kepler_name": "Kepler-1599 b"
+  },
+  {
+    "kepler_name": "Kepler-1600 c"
+  },
+  {
+    "kepler_name": "Kepler-1702 b"
+  },
+  {
+    "kepler_name": "Kepler-1254 c"
+  },
+  {
+    "kepler_name": "Kepler-1948 b"
+  },
+  {
+    "kepler_name": "Kepler-1859 c"
+  },
+  {
+    "kepler_name": "Kepler-1951 b"
+  },
+  {
+    "kepler_name": "Kepler-430 c"
+  },
+  {
+    "kepler_name": "Kepler-1945 b"
+  },
+  {
+    "kepler_name": "Kepler-1946 b"
+  },
+  {
+    "kepler_name": "Kepler-1577 b"
+  },
+  {
+    "kepler_name": "Kepler-1589 b"
+  },
+  {
+    "kepler_name": "Kepler-1947 b"
+  },
+  {
+    "kepler_name": "Kepler-1562 b"
+  },
+  {
+    "kepler_name": "Kepler-1563 b"
+  },
+  {
+    "kepler_name": "Kepler-1578 b"
+  },
+  {
+    "kepler_name": "Kepler-1254 d"
+  },
+  {
+    "kepler_name": "Kepler-446 c"
+  },
+  {
+    "kepler_name": "Kepler-1564 b"
+  },
+  {
+    "kepler_name": "Kepler-1565 b"
+  },
+  {
+    "kepler_name": "Kepler-1590 b"
+  },
+  {
+    "kepler_name": "Kepler-1601 b"
+  },
+  {
+    "kepler_name": "Kepler-1954 b"
+  },
+  {
+    "kepler_name": "Kepler-1566 b"
+  },
+  {
+    "kepler_name": "Kepler-1949 b"
+  },
+  {
+    "kepler_name": "Kepler-1579 b"
+  },
+  {
+    "kepler_name": "Kepler-1993 b"
+  },
+  {
+    "kepler_name": "Kepler-1591 b"
+  },
+  {
+    "kepler_name": "Kepler-392 c"
+  },
+  {
+    "kepler_name": "Kepler-1567 b"
+  },
+  {
+    "kepler_name": "Kepler-385 d"
+  },
+  {
+    "kepler_name": "Kepler-1568 b"
+  },
+  {
+    "kepler_name": "Kepler-390 c"
+  },
+  {
+    "kepler_name": "Kepler-1617 b"
+  },
+  {
+    "kepler_name": "Kepler-1653 b"
+  },
+  {
+    "kepler_name": "Kepler-441 b"
+  },
+  {
+    "kepler_name": "Kepler-1911 b"
+  },
+  {
+    "kepler_name": "Kepler-1964 b"
+  },
+  {
+    "kepler_name": "Kepler-1619 b"
+  },
+  {
+    "kepler_name": "Kepler-1960 b"
+  },
+  {
+    "kepler_name": "Kepler-444 c"
+  },
+  {
+    "kepler_name": "Kepler-1609 b"
+  },
+  {
+    "kepler_name": "Kepler-1613 b"
+  },
+  {
+    "kepler_name": "Kepler-1620 b"
+  },
+  {
+    "kepler_name": "Kepler-62 c"
+  },
+  {
+    "kepler_name": "Kepler-1614 b"
+  },
+  {
+    "kepler_name": "Kepler-444 d"
+  },
+  {
+    "kepler_name": "Kepler-1610 b"
+  },
+  {
+    "kepler_name": "Kepler-1615 b"
+  },
+  {
+    "kepler_name": "Kepler-1618 b"
+  },
+  {
+    "kepler_name": "Kepler-1972 b"
+  },
+  {
+    "kepler_name": "Kepler-1967 b"
+  },
+  {
+    "kepler_name": "Kepler-1610 c"
+  },
+  {
+    "kepler_name": "Kepler-444 e"
+  },
+  {
+    "kepler_name": "Kepler-1961 b"
+  },
+  {
+    "kepler_name": "Kepler-1611 b"
+  },
+  {
+    "kepler_name": "Kepler-1612 b"
+  },
+  {
+    "kepler_name": "Kepler-444 f"
+  },
+  {
+    "kepler_name": "Kepler-1616 b"
+  },
+  {
+    "kepler_name": "Kepler-1965 b"
+  },
+  {
+    "kepler_name": "Kepler-1966 b"
+  },
+  {
+    "kepler_name": "Kepler-1606 b"
+  },
+  {
+    "kepler_name": "Kepler-1962 b"
+  },
+  {
+    "kepler_name": "Kepler-1607 b"
+  },
+  {
+    "kepler_name": "Kepler-1608 b"
+  },
+  {
+    "kepler_name": "Kepler-1963 b"
+  },
+  {
+    "kepler_name": "Kepler-444 b"
+  },
+  {
+    "kepler_name": "Kepler-1958 b"
+  },
+  {
+    "kepler_name": "Kepler-1959 b"
+  },
+  {
+    "kepler_name": "Kepler-1459 b"
+  },
+  {
+    "kepler_name": "Kepler-1460 b"
+  },
+  {
+    "kepler_name": "Kepler-274 b"
+  },
+  {
+    "kepler_name": "Kepler-1622 b"
+  },
+  {
+    "kepler_name": "Kepler-1461 b"
+  },
+  {
+    "kepler_name": "Kepler-1988 b"
+  },
+  {
+    "kepler_name": "Kepler-1462 b"
+  },
+  {
+    "kepler_name": "Kepler-1463 b"
+  },
+  {
+    "kepler_name": "Kepler-1464 b"
+  },
+  {
+    "kepler_name": "Kepler-1705 b"
+  },
+  {
+    "kepler_name": "Kepler-1912 b"
+  },
+  {
+    "kepler_name": "Kepler-450 d"
+  },
+  {
+    "kepler_name": "Kepler-274 c"
+  },
+  {
+    "kepler_name": "Kepler-1464 c"
+  },
+  {
+    "kepler_name": "Kepler-1465 b"
+  },
+  {
+    "kepler_name": "Kepler-1971 b"
+  },
+  {
+    "kepler_name": "Kepler-1443 b"
+  },
+  {
+    "kepler_name": "Kepler-1444 b"
+  },
+  {
+    "kepler_name": "Kepler-1466 b"
+  },
+  {
+    "kepler_name": "Kepler-1467 b"
+  },
+  {
+    "kepler_name": "Kepler-1445 b"
+  },
+  {
+    "kepler_name": "Kepler-1469 b"
+  },
+  {
+    "kepler_name": "Kepler-296 f"
+  },
+  {
+    "kepler_name": "Kepler-1446 b"
+  },
+  {
+    "kepler_name": "Kepler-1915 b"
+  },
+  {
+    "kepler_name": "Kepler-1468 d"
+  },
+  {
+    "kepler_name": "Kepler-1468 b"
+  },
+  {
+    "kepler_name": "Kepler-437 b"
+  },
+  {
+    "kepler_name": "Kepler-1468 c"
+  },
+  {
+    "kepler_name": "Kepler-271 d"
+  },
+  {
+    "kepler_name": "Kepler-1447 b"
+  },
+  {
+    "kepler_name": "Kepler-1470 b"
+  },
+  {
+    "kepler_name": "Kepler-1448 b"
+  },
+  {
+    "kepler_name": "Kepler-1449 b"
+  },
+  {
+    "kepler_name": "Kepler-1968 b"
+  },
+  {
+    "kepler_name": "Kepler-1623 b"
+  },
+  {
+    "kepler_name": "Kepler-1450 b"
+  },
+  {
+    "kepler_name": "Kepler-1913 b"
+  },
+  {
+    "kepler_name": "Kepler-1986 b"
+  },
+  {
+    "kepler_name": "Kepler-1451 b"
+  },
+  {
+    "kepler_name": "Kepler-442 b"
+  },
+  {
+    "kepler_name": "Kepler-1452 b"
+  },
+  {
+    "kepler_name": "Kepler-443 b"
+  },
+  {
+    "kepler_name": "Kepler-1621 b"
+  },
+  {
+    "kepler_name": "Kepler-1969 b"
+  },
+  {
+    "kepler_name": "Kepler-1442 b"
+  },
+  {
+    "kepler_name": "Kepler-1914 b"
+  },
+  {
+    "kepler_name": "Kepler-1453 b"
+  },
+  {
+    "kepler_name": "Kepler-1455 b"
+  },
+  {
+    "kepler_name": "Kepler-438 b"
+  },
+  {
+    "kepler_name": "Kepler-1456 b"
+  },
+  {
+    "kepler_name": "Kepler-1457 b"
+  },
+  {
+    "kepler_name": "Kepler-1458 b"
+  },
+  {
+    "kepler_name": "Kepler-1703 b"
+  },
+  {
+    "kepler_name": "Kepler-328 b"
+  },
+  {
+    "kepler_name": "Kepler-1480 b"
+  },
+  {
+    "kepler_name": "Kepler-1499 b"
+  },
+  {
+    "kepler_name": "Kepler-1500 b"
+  },
+  {
+    "kepler_name": "Kepler-1481 b"
+  },
+  {
+    "kepler_name": "Kepler-1997 b"
+  },
+  {
+    "kepler_name": "Kepler-1501 b"
+  },
+  {
+    "kepler_name": "Kepler-1502 b"
+  },
+  {
+    "kepler_name": "Kepler-1980 b"
+  },
+  {
+    "kepler_name": "Kepler-990 c"
+  },
+  {
+    "kepler_name": "Kepler-1483 b"
+  },
+  {
+    "kepler_name": "Kepler-1918 b"
+  },
+  {
+    "kepler_name": "Kepler-1503 b"
+  },
+  {
+    "kepler_name": "Kepler-1504 b"
+  },
+  {
+    "kepler_name": "Kepler-320 c"
+  },
+  {
+    "kepler_name": "Kepler-1484 b"
+  },
+  {
+    "kepler_name": "Kepler-1919 b"
+  },
+  {
+    "kepler_name": "Kepler-312 b"
+  },
+  {
+    "kepler_name": "Kepler-1485 b"
+  },
+  {
+    "kepler_name": "Kepler-1505 b"
+  },
+  {
+    "kepler_name": "Kepler-320 b"
+  },
+  {
+    "kepler_name": "Kepler-332 c"
+  },
+  {
+    "kepler_name": "Kepler-1506 b"
+  },
+  {
+    "kepler_name": "Kepler-1922 b"
+  },
+  {
+    "kepler_name": "Kepler-143 b"
+  },
+  {
+    "kepler_name": "Kepler-1486 b"
+  },
+  {
+    "kepler_name": "Kepler-920 c"
+  },
+  {
+    "kepler_name": "Kepler-1507 b"
+  },
+  {
+    "kepler_name": "Kepler-1487 b"
+  },
+  {
+    "kepler_name": "Kepler-1487 c"
+  },
+  {
+    "kepler_name": "Kepler-1508 b"
+  },
+  {
+    "kepler_name": "Kepler-411 d"
+  },
+  {
+    "kepler_name": "Kepler-1984 b"
+  },
+  {
+    "kepler_name": "Kepler-1488 b"
+  },
+  {
+    "kepler_name": "Kepler-1509 b"
+  },
+  {
+    "kepler_name": "Kepler-1923 b"
+  },
+  {
+    "kepler_name": "Kepler-967 c"
+  },
+  {
+    "kepler_name": "Kepler-1916 b"
+  },
+  {
+    "kepler_name": "Kepler-132 e"
+  },
+  {
+    "kepler_name": "Kepler-880 c"
+  },
+  {
+    "kepler_name": "Kepler-1488 c"
+  },
+  {
+    "kepler_name": "Kepler-1489 b"
+  },
+  {
+    "kepler_name": "Kepler-1490 b"
+  },
+  {
+    "kepler_name": "Kepler-968 d"
+  },
+  {
+    "kepler_name": "Kepler-1491 b"
+  },
+  {
+    "kepler_name": "Kepler-1492 b"
+  },
+  {
+    "kepler_name": "Kepler-1924 b"
+  },
+  {
+    "kepler_name": "Kepler-1510 b"
+  },
+  {
+    "kepler_name": "Kepler-1471 c"
+  },
+  {
+    "kepler_name": "Kepler-1493 b"
+  },
+  {
+    "kepler_name": "Kepler-1494 b"
+  },
+  {
+    "kepler_name": "Kepler-1495 b"
+  },
+  {
+    "kepler_name": "Kepler-968 c"
+  },
+  {
+    "kepler_name": "Kepler-1471 b"
+  },
+  {
+    "kepler_name": "Kepler-1472 b"
+  },
+  {
+    "kepler_name": "Kepler-1473 b"
+  },
+  {
+    "kepler_name": "Kepler-1917 b"
+  },
+  {
+    "kepler_name": "Kepler-1474 b"
+  },
+  {
+    "kepler_name": "Kepler-315 c"
+  },
+  {
+    "kepler_name": "Kepler-1925 b"
+  },
+  {
+    "kepler_name": "Kepler-1475 b"
+  },
+  {
+    "kepler_name": "Kepler-1476 b"
+  },
+  {
+    "kepler_name": "Kepler-1920 b"
+  },
+  {
+    "kepler_name": "Kepler-1921 b"
+  },
+  {
+    "kepler_name": "Kepler-1921 c"
+  },
+  {
+    "kepler_name": "Kepler-1511 b"
+  },
+  {
+    "kepler_name": "Kepler-1512 b"
+  },
+  {
+    "kepler_name": "Kepler-969 c"
+  },
+  {
+    "kepler_name": "Kepler-1477 b"
+  },
+  {
+    "kepler_name": "Kepler-1478 b"
+  },
+  {
+    "kepler_name": "Kepler-1496 b"
+  },
+  {
+    "kepler_name": "Kepler-1497 b"
+  },
+  {
+    "kepler_name": "Kepler-953 c"
+  },
+  {
+    "kepler_name": "Kepler-1927 b"
+  },
+  {
+    "kepler_name": "Kepler-1696 b"
+  },
+  {
+    "kepler_name": "Kepler-1479 b"
+  },
+  {
+    "kepler_name": "Kepler-937 c"
+  },
+  {
+    "kepler_name": "Kepler-1498 b"
+  },
+  {
+    "kepler_name": "Kepler-1526 b"
+  },
+  {
+    "kepler_name": "Kepler-359 d"
+  },
+  {
+    "kepler_name": "Kepler-342 e"
+  },
+  {
+    "kepler_name": "Kepler-348 c"
+  },
+  {
+    "kepler_name": "Kepler-154 b"
+  },
+  {
+    "kepler_name": "Kepler-1527 b"
+  },
+  {
+    "kepler_name": "Kepler-1073 c"
+  },
+  {
+    "kepler_name": "Kepler-342 c"
+  },
+  {
+    "kepler_name": "Kepler-1513 b"
+  },
+  {
+    "kepler_name": "Kepler-1657 b"
+  },
+  {
+    "kepler_name": "Kepler-1514 b"
+  },
+  {
+    "kepler_name": "Kepler-1521 b"
+  },
+  {
+    "kepler_name": "Kepler-1073 d"
+  },
+  {
+    "kepler_name": "Kepler-1929 b"
+  },
+  {
+    "kepler_name": "Kepler-1528 b"
+  },
+  {
+    "kepler_name": "Kepler-1514 c"
+  },
+  {
+    "kepler_name": "Kepler-1515 b"
+  },
+  {
+    "kepler_name": "Kepler-1516 b"
+  },
+  {
+    "kepler_name": "Kepler-1529 b"
+  },
+  {
+    "kepler_name": "Kepler-343 c"
+  },
+  {
+    "kepler_name": "Kepler-351 d"
+  },
+  {
+    "kepler_name": "Kepler-1519 b"
+  },
+  {
+    "kepler_name": "Kepler-1530 d"
+  },
+  {
+    "kepler_name": "Kepler-1530 b"
+  },
+  {
+    "kepler_name": "Kepler-1530 c"
+  },
+  {
+    "kepler_name": "Kepler-1522 b"
+  },
+  {
+    "kepler_name": "Kepler-1031 b"
+  },
+  {
+    "kepler_name": "Kepler-352 d"
+  },
+  {
+    "kepler_name": "Kepler-154 e"
+  },
+  {
+    "kepler_name": "Kepler-1090 b"
+  },
+  {
+    "kepler_name": "Kepler-1531 b"
+  },
+  {
+    "kepler_name": "Kepler-1093 c"
+  },
+  {
+    "kepler_name": "Kepler-1038 c"
+  },
+  {
+    "kepler_name": "Kepler-1698 b"
+  },
+  {
+    "kepler_name": "Kepler-2001 b"
+  },
+  {
+    "kepler_name": "Kepler-332 d"
+  },
+  {
+    "kepler_name": "Kepler-460 b"
+  },
+  {
+    "kepler_name": "Kepler-1523 b"
+  },
+  {
+    "kepler_name": "Kepler-335 c"
+  },
+  {
+    "kepler_name": "Kepler-347 c"
+  },
+  {
+    "kepler_name": "Kepler-1520 b"
+  },
+  {
+    "kepler_name": "Kepler-1065 c"
+  },
+  {
+    "kepler_name": "Kepler-1085 b"
+  },
+  {
+    "kepler_name": "Kepler-1928 b"
+  },
+  {
+    "kepler_name": "Kepler-1524 b"
+  },
+  {
+    "kepler_name": "Kepler-1016 c"
+  },
+  {
+    "kepler_name": "Kepler-1047 c"
+  },
+  {
+    "kepler_name": "Kepler-1067 b"
+  },
+  {
+    "kepler_name": "Kepler-1517 b"
+  },
+  {
+    "kepler_name": "Kepler-1086 c"
+  },
+  {
+    "kepler_name": "Kepler-340 b"
+  },
+  {
+    "kepler_name": "Kepler-1525 b"
+  },
+  {
+    "kepler_name": "Kepler-86 b"
+  },
+  {
+    "kepler_name": "Kepler-953 b"
+  },
+  {
+    "kepler_name": "Kepler-1535 b"
+  },
+  {
+    "kepler_name": "Kepler-1763 b"
+  },
+  {
+    "kepler_name": "Kepler-963 b"
+  },
+  {
+    "kepler_name": "Kepler-1536 b"
+  },
+  {
+    "kepler_name": "Kepler-976 b"
+  },
+  {
+    "kepler_name": "Kepler-1126 c"
+  },
+  {
+    "kepler_name": "Kepler-930 b"
+  },
+  {
+    "kepler_name": "Kepler-1037 b"
+  },
+  {
+    "kepler_name": "Kepler-1867 b"
+  },
+  {
+    "kepler_name": "Kepler-1326 b"
+  },
+  {
+    "kepler_name": "Kepler-1331 b"
+  },
+  {
+    "kepler_name": "Kepler-1537 b"
+  },
+  {
+    "kepler_name": "Kepler-957 b"
+  },
+  {
+    "kepler_name": "Kepler-1350 b"
+  },
+  {
+    "kepler_name": "Kepler-1353 b"
+  },
+  {
+    "kepler_name": "Kepler-365 c"
+  },
+  {
+    "kepler_name": "Kepler-1994 b"
+  },
+  {
+    "kepler_name": "Kepler-1289 b"
+  },
+  {
+    "kepler_name": "Kepler-1129 c"
+  },
+  {
+    "kepler_name": "Kepler-1883 b"
+  },
+  {
+    "kepler_name": "Kepler-1932 b"
+  },
+  {
+    "kepler_name": "Kepler-1933 b"
+  },
+  {
+    "kepler_name": "Kepler-439 b"
+  },
+  {
+    "kepler_name": "Kepler-1137 b"
+  },
+  {
+    "kepler_name": "Kepler-1806 b"
+  },
+  {
+    "kepler_name": "Kepler-1699 b"
+  },
+  {
+    "kepler_name": "Kepler-1532 b"
+  },
+  {
+    "kepler_name": "Kepler-1801 c"
+  },
+  {
+    "kepler_name": "Kepler-1538 b"
+  },
+  {
+    "kepler_name": "Kepler-1930 b"
+  },
+  {
+    "kepler_name": "Kepler-1700 b"
+  },
+  {
+    "kepler_name": "Kepler-1931 b"
+  },
+  {
+    "kepler_name": "Kepler-1539 b"
+  },
+  {
+    "kepler_name": "Kepler-1540 b"
+  },
+  {
+    "kepler_name": "Kepler-508 b"
+  },
+  {
+    "kepler_name": "Kepler-1533 b"
+  },
+  {
+    "kepler_name": "Kepler-1676 b"
+  },
+  {
+    "kepler_name": "Kepler-361 b"
+  },
+  {
+    "kepler_name": "Kepler-1025 b"
+  },
+  {
+    "kepler_name": "Kepler-2001 c"
+  },
+  {
+    "kepler_name": "Kepler-1789 b"
+  },
+  {
+    "kepler_name": "Kepler-362 b"
+  },
+  {
+    "kepler_name": "Kepler-76 b"
+  },
+  {
+    "kepler_name": "Kepler-296 e"
+  },
+  {
+    "kepler_name": "Kepler-1649 b"
+  },
+  {
+    "kepler_name": "Kepler-90 c"
+  },
+  {
+    "kepler_name": "Kepler-90 b"
+  },
+  {
+    "kepler_name": "Kepler-1996 b"
+  },
+  {
+    "kepler_name": "Kepler-1662 c"
+  },
+  {
+    "kepler_name": "Kepler-1409 b"
+  },
+  {
+    "kepler_name": "Kepler-1899 b"
+  },
+  {
+    "kepler_name": "Kepler-90 e"
+  },
+  {
+    "kepler_name": "Kepler-1904 b"
+  },
+  {
+    "kepler_name": "Kepler-1425 b"
+  },
+  {
+    "kepler_name": "Kepler-1659 b"
+  },
+  {
+    "kepler_name": "Kepler-1350 c"
+  },
+  {
+    "kepler_name": "Kepler-529 d"
+  },
+  {
+    "kepler_name": "Kepler-607 b"
+  },
+  {
+    "kepler_name": "Kepler-1697 b"
+  },
+  {
+    "kepler_name": "Kepler-1926 b"
+  },
+  {
+    "kepler_name": "Kepler-460 c"
+  },
+  {
+    "kepler_name": "Kepler-1624 b"
+  },
+  {
+    "kepler_name": "Kepler-1626 b"
+  },
+  {
+    "kepler_name": "Kepler-1625 b"
+  },
+  {
+    "kepler_name": "Kepler-1627 b"
+  },
+  {
+    "kepler_name": "Kepler-62 f"
+  },
+  {
+    "kepler_name": "Kepler-354 c"
+  },
+  {
+    "kepler_name": "Kepler-389 c"
+  },
+  {
+    "kepler_name": "Kepler-1454 b"
+  },
+  {
+    "kepler_name": "Kepler-1628 b"
+  },
+  {
+    "kepler_name": "Kepler-1633 b"
+  },
+  {
+    "kepler_name": "Kepler-1630 b"
+  },
+  {
+    "kepler_name": "Kepler-1634 b"
+  },
+  {
+    "kepler_name": "Kepler-1636 b"
+  },
+  {
+    "kepler_name": "Kepler-1637 b"
+  },
+  {
+    "kepler_name": "Kepler-1631 b"
+  },
+  {
+    "kepler_name": "Kepler-1632 b"
+  },
+  {
+    "kepler_name": "Kepler-1635 b"
+  },
+  {
+    "kepler_name": "Kepler-1638 b"
+  },
+  {
+    "kepler_name": "Kepler-1639 b"
+  },
+  {
+    "kepler_name": "Kepler-311 d"
+  },
+  {
+    "kepler_name": "Kepler-1491 c"
+  },
+  {
+    "kepler_name": "Kepler-1703 c"
+  },
+  {
+    "kepler_name": "Kepler-1643 b"
+  },
+  {
+    "kepler_name": "Kepler-1534 b"
+  },
+  {
+    "kepler_name": "Kepler-176 e"
+  },
+  {
+    "kepler_name": "Kepler-1542 d"
+  },
+  {
+    "kepler_name": "Kepler-1542 e"
+  },
+  {
+    "kepler_name": "Kepler-1981 b"
+  },
+  {
+    "kepler_name": "Kepler-1600 b"
+  },
+  {
+    "kepler_name": "Kepler-1518 b"
+  },
+  {
+    "kepler_name": "Kepler-1518 c"
+  },
+  {
+    "kepler_name": "Kepler-1640 b"
+  },
+  {
+    "kepler_name": "Kepler-1644 b"
+  },
+  {
+    "kepler_name": "Kepler-1645 b"
+  },
+  {
+    "kepler_name": "Kepler-1185 b"
+  },
+  {
+    "kepler_name": "Kepler-1052 c"
+  },
+  {
+    "kepler_name": "Kepler-1641 b"
+  },
+  {
+    "kepler_name": "Kepler-1641 c"
+  },
+  {
+    "kepler_name": "Kepler-1642 b"
+  },
+  {
+    "kepler_name": "Kepler-1642 c"
+  },
+  {
+    "kepler_name": "Kepler-1143 c"
+  },
+  {
+    "kepler_name": "Kepler-1834 c"
+  },
+  {
+    "kepler_name": "Kepler-401 d"
+  },
+  {
+    "kepler_name": "Kepler-1388 d"
+  },
+  {
+    "kepler_name": "Kepler-1388 e"
+  },
+  {
+    "kepler_name": "Kepler-1482 b"
+  },
+  {
+    "kepler_name": "Kepler-1972 c"
+  },
+  {
+    "kepler_name": "Kepler-90 f"
+  },
+  {
+    "kepler_name": "Kepler-347 d"
+  },
+  {
+    "kepler_name": "Kepler-457 d"
+  },
+  {
+    "kepler_name": "Kepler-1974 b"
+  },
+  {
+    "kepler_name": "Kepler-1999 b"
+  },
+  {
+    "kepler_name": "Kepler-1646 b"
+  },
+  {
+    "kepler_name": "Kepler-445 d"
+  },
+  {
+    "kepler_name": "Kepler-452 b"
+  },
+  {
+    "kepler_name": "Kepler-1629 b"
+  },
+  {
+    "kepler_name": "Kepler-1975 b"
+  }
+]
